@@ -40,6 +40,7 @@ comraider;fuzzer activex;https://github.com/dzzie/COMRaider
 malybuzz;fuzzer network;http://eternal-todo.com/tools/malybuzz-network-fuzzer
 peach;fuzzer;http://www.peachfuzzer.com/resources/peachcommunity/
 radamsa;fuzzer;https://github.com/aoh/radamsa
+xsshunter;web xss;https://github.com/mandatoryprogrammer/xsshunter
 
 ### IDS/IPS
 snort;ids;https://www.snort.org/downloads
@@ -59,6 +60,9 @@ ida;windows/linux;https://www.hex-rays.com/products/ida/support/download.shtml
 radar;windows/linux;http://radare.org/r/down.html
 objdump;linux;
 ollydbg;windows;http://www.ollydbg.de/
+
+### other
+mailgun;mail;http://www.mailgun.com/
 
 
 
