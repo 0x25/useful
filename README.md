@@ -20,6 +20,7 @@ builtwith;CMS identification;http://builtwith.com/
 nikto;web;https://github.com/sullo/nikto  
 dirbuster;web;https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project  
 fibratus;windows kernel;https://github.com/rabbitstack/fibratus  
+wafw00f;web;https://github.com/EnableSecurity/wafw00f
 
 ### vulnerabilities research
 burp;web;http://portswigger.net/  
