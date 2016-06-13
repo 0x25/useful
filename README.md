@@ -5,7 +5,7 @@
                        |______//____  >\___  >__| |____/|____/                  
                                    \/     \/                                   
                                    
-last update 10 june 2016
+last update 13 june 2016
 
 ### Detection
 
@@ -19,6 +19,7 @@ webappalyzer;CMS identification;https://wappalyzer.com/
 builtwith;CMS identification;http://builtwith.com/  
 nikto;web;https://github.com/sullo/nikto  
 dirbuster;web;https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project  
+fibratus;windows kernel;https://github.com/rabbitstack/fibratus  
 
 ### vulnerabilities research
 burp;web;http://portswigger.net/  
