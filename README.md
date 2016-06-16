@@ -5,7 +5,7 @@
                        |______//____  >\___  >__| |____/|____/                  
                                    \/     \/                                   
                                    
-last update 15 june 2016
+last update 16 june 2016
 
 ### Detection
 
@@ -43,6 +43,7 @@ malybuzz;fuzzer network;http://eternal-todo.com/tools/malybuzz-network-fuzzer
 peach;fuzzer;http://www.peachfuzzer.com/resources/peachcommunity/  
 radamsa;fuzzer;https://github.com/aoh/radamsa  
 xsshunter;web xss;https://github.com/mandatoryprogrammer/xsshunter  
+xsspy;web;https://github.com/faizann24/XssPy/  
 
 ### IDS/IPS
 
