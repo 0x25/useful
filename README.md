@@ -67,6 +67,11 @@ radar;windows/linux;http://radare.org/r/down.html
 objdump;linux;  
 ollydbg;windows;http://www.ollydbg.de/  
 
+## search in file
+
+foremost;linux
+photorec;linux
+
 ### other
 
 mailgun;mail;http://www.mailgun.com/  
