@@ -29,6 +29,7 @@ sqlmap;sqli;http://sqlmap.org/
 havij,sqli;http://itsecteam.com/  
 nessus;server;http://www.tenable.com/products/nessus/select-your-operating-system  
 metasploit;pentest framework;http://www.rapid7.com/products/metasploit/  
+sniper;pentest;https://github.com/1N3/Sn1per  
 BeEF;web;https://github.com/beefproject/beef  
 aircrack;wifi;http://www.aircrack-ng.org/  
 airsnort;wifi;http://sourceforge.net/projects/airsnort/  
