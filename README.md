@@ -70,8 +70,12 @@ ollydbg;windows;http://www.ollydbg.de/
 
 ## search in file
 
-foremost;linux
-photorec;linux
+foremost;linux  
+photorec;linux  
+
+## network
+
+t50;network;https://sourceforge.net/projects/t50/  
 
 ### other
 
