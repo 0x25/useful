@@ -77,6 +77,11 @@ photorec;linux
 
 t50;network;https://sourceforge.net/projects/t50/  
 
+## search engine
+
+shodan;searchEngine;https://www.shodan.io  
+censys;searchEngine;https://www.censys.io/  
+
 ### other
 
 mailgun;mail;http://www.mailgun.com/  
