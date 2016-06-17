@@ -5,7 +5,7 @@
                        |______//____  >\___  >__| |____/|____/                  
                                    \/     \/                                   
                                    
-last update 16 june 2016
+last update 17 june 2016
 
 ### Detection
 
@@ -21,6 +21,7 @@ nikto;web;https://github.com/sullo/nikto
 dirbuster;web;https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project  
 fibratus;windows kernel;https://github.com/rabbitstack/fibratus  
 wafw00f;web;https://github.com/EnableSecurity/wafw00f
+skipfish;web;https://code.google.com/archive/p/skipfish/
 
 ### vulnerabilities research
 burp;web;http://portswigger.net/  
@@ -45,6 +46,8 @@ peach;fuzzer;http://www.peachfuzzer.com/resources/peachcommunity/
 radamsa;fuzzer;https://github.com/aoh/radamsa  
 xsshunter;web xss;https://github.com/mandatoryprogrammer/xsshunter  
 xsspy;web;https://github.com/faizann24/XssPy/  
+kerberom;windows;https://github.com/Fist0urs/kerberom  
+
 
 ### IDS/IPS
 
@@ -66,12 +69,14 @@ gdb.init;linux;https://gist.github.com/CocoaBeans/1879270
 ida;windows/linux;https://www.hex-rays.com/products/ida/support/download.shtml  
 radar;windows/linux;http://radare.org/r/down.html  
 objdump;linux;  
-ollydbg;windows;http://www.ollydbg.de/  
+ollydbg;windows;http://www.ollydbg.de/ 
+binwalk;firmware;http://binwalk.org/
 
 ## search in file
 
 foremost;linux  
 photorec;linux  
+hachoir-subfile;linux;apt-get install python-hachoir-subfile  
 
 ## network
 
@@ -81,6 +86,10 @@ t50;network;https://sourceforge.net/projects/t50/
 
 shodan;searchEngine;https://www.shodan.io  
 censys;searchEngine;https://www.censys.io/  
+
+## ebooks/zine
+
+International Journal of Proof-of-Concept or Get The Fuck Out;ebook;https://www.alchemistowl.org/pocorgtfo/  
 
 ### other
 
