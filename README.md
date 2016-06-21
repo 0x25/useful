@@ -5,7 +5,7 @@
                        |______//____  >\___  >__| |____/|____/                  
                                    \/     \/                                   
                                    
-last update 17 june 2016
+last update 21 june 2016
 
 ### Detection
 
@@ -47,7 +47,7 @@ radamsa;fuzzer;https://github.com/aoh/radamsa
 xsshunter;web xss;https://github.com/mandatoryprogrammer/xsshunter  
 xsspy;web;https://github.com/faizann24/XssPy/  
 kerberom;windows;https://github.com/Fist0urs/kerberom  
-
+BruteXSS;xss;https://github.com/shawarkhanethicalhacker/BruteXSS  
 
 ### IDS/IPS
 
