@@ -48,6 +48,7 @@ xsshunter;web xss;https://github.com/mandatoryprogrammer/xsshunter
 xsspy;web;https://github.com/faizann24/XssPy/  
 kerberom;windows;https://github.com/Fist0urs/kerberom  
 BruteXSS;xss;https://github.com/shawarkhanethicalhacker/BruteXSS  
+otori;xee;http://www.beneaththewaves.net/Software/On_The_Outside_Reaching_In.html#Downloads  
 
 ### IDS/IPS
 
