@@ -5,7 +5,7 @@
                        |______//____  >\___  >__| |____/|____/                  
                                    \/     \/                                   
                                    
-last update 21 june 2016
+last update 23 june 2016
 
 ### Detection
 
@@ -21,7 +21,9 @@ nikto;web;https://github.com/sullo/nikto
 dirbuster;web;https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project  
 fibratus;windows kernel;https://github.com/rabbitstack/fibratus  
 wafw00f;web;https://github.com/EnableSecurity/wafw00f  
-skipfish;web;https://code.google.com/archive/p/skipfish/
+skipfish;web;https://code.google.com/archive/p/skipfish/  
+lastaudit;windows;https://lastaudit.wordpress.com/download/  
+
 
 ### vulnerabilities research
 burp;web;http://portswigger.net/  
