@@ -5,7 +5,7 @@
                        |______//____  >\___  >__| |____/|____/                  
                                    \/     \/                                   
                                    
-last update 23 june 2016
+last update 24 june 2016
 
 ### Detection
 
@@ -23,6 +23,7 @@ fibratus;windows kernel;https://github.com/rabbitstack/fibratus
 wafw00f;web;https://github.com/EnableSecurity/wafw00f  
 skipfish;web;https://code.google.com/archive/p/skipfish/  
 lastaudit;windows;https://lastaudit.wordpress.com/download/  
+subbrute;dns;https://github.com/TheRook/subbrute  
 
 
 ### vulnerabilities research
