@@ -99,6 +99,7 @@ International Journal of Proof-of-Concept or Get The Fuck Out;ebook;https://www.
 
 mailgun;mail;http://www.mailgun.com/  
 anonymous;OS;https://www.whonix.org/
+owasp test list;pentest;https://www.owasp.org/index.php/Testing_Checklist  
 
 
 
