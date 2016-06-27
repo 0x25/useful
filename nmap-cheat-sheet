@@ -1,0 +1,120 @@
+### simple
+nmap -sP 10.0.0.0/24  
+Ping scans the network, listing machines that respond to ping.  
+
+nmap -p- -sV -sS -T4 target  
+Full TCP port scan using with service version detection - usually my first scan, I find T4 more accurate than T5 and still "pretty quick".  
+
+nmap -v -sS -A -T4 target  
+Prints verbose output, runs stealth syn scan, T4 timing, OS and version detection + traceroute and scripts against target services.  
+
+nmap -v -sS -A -T5 target  
+Prints verbose output, runs stealth syn scan, T5 timing, OS and version detection + traceroute and scripts against target services.  
+
+nmap -v -sV -O -sS -T5 target  
+Prints verbose output, runs stealth syn scan, T5 timing, OS and version detection.  
+
+nmap -v -p 1-65535 -sV -O -sS -T4 target  
+Prints verbose output, runs stealth syn scan, T4 timing, OS and version detection + full port range scan.  
+
+nmap -v -p 1-65535 -sV -O -sS -T5 target  
+Prints verbose output, runs stealth syn scan, T5 timing, OS and version detection + full port range scan.  
+Agressive scan timings are faster, but could yeild inaccurate results!  
+T5 uses very aggressive scan timings and could lead to missed ports, T4 is a better compromise if you need fast results.  
+
+### Nmap scan from file  
+
+nmap -iL ip-addresses.txt  
+Scans a list of IP addresses, you can add options before / after.
+
+### nmap output format  
+
+nmap -sV -p 139,445 -oG grep-output.txt 10.0.1.0/24  
+Outputs "grepable" output to a file, in this example Netbios servers.  
+E.g, The output file could be grepped for "Open".  
+nmap -sS -sV -T5 10.0.1.99 --webxml -oX -  
+ | xsltproc --output file.html -  
+Export nmap output to HTML report.  
+
+### Netbios
+
+nmap -sV -v -p 139,445 10.0.0.1/24
+Find all Netbios servers on subnet
+
+nmap -sU --script nbstat.nse -p 137 target
+Nmap display Netbios name
+
+nmap --script-args=unsafe=1 --script  smb-check-vulns.nse -p 445 target  
+Nmap check if Netbios servers are vulnerable to MS08-067  
+
+--script-args=unsafe=1 has the potential to crash servers / services  
+Becareful when running this command.  
+
+### Nmap Nikto Scan  
+
+nmap -p80 10.0.1.0/24 -oG - | nikto.pl -h -  
+Scans for http servers on port 80 and pipes into Nikto for scanning.  
+
+nmap -p80,443 10.0.1.0/24 -oG - | nikto.pl -h -  
+Scans for http/https servers on port 80, 443 and pipes into Nikto for scanning.  
+
+
+### The following are real world examples of Nmap enumeration.  
+
+Enumerating Netbios  
+
+The following example enumerates Netbios on the target networks, the same process can be applied to other services by modifying ports / NSE scripts.  
+
+Detect all exposed Netbios servers on the subnet.  
+
+Nmap find exposed Netbios servers  
+root:~# nmap -sV -v -p 139,445 10.0.1.0/24  
+
+Starting Nmap 6.47 ( http://nmap.org ) at 2014-12-11 21:26 GMT  
+Nmap scan report for nas.decepticons 10.0.1.12  
+Host is up (0.014s latency).  
+
+PORT STATE SERVICE VERSION  
+139/tcp open netbios-ssn Samba smbd 3.X (workgroup: MEGATRON)  
+445/tcp open netbios-ssn Samba smbd 3.X (workgroup: MEGATRON)  
+
+Service detection performed. Please report any incorrect results at http://nmap.org/submit/ .  
+
+Nmap done: 256 IP addresses (1 hosts up) scanned in 28.74 seconds  
+ 
+ 
+Nmap find Netbios name.  
+
+Nmap find exposed Netbios servers  
+root:~# nmap -sU --script nbstat.nse -p 137 10.0.1.12  
+
+Starting Nmap 6.47 ( http://nmap.org ) at 2014-12-11 21:26 GMT  
+Nmap scan report for nas.decepticons 10.0.1.12  
+Host is up (0.014s latency).  
+
+PORT STATE SERVICE VERSION  
+137/udp open netbios-ns  
+
+Host script results:  
+|_nbstat: NetBIOS name: STARSCREAM, NetBIOS user: unknown, NetBIOS MAC: unknown (unknown)   
+Nmap done: 256 IP addresses (1 hosts up) scanned in 28.74 seconds  
+ 
+Check if Netbios servers are vulnerable to MS08-067  
+
+Nmap check MS08-067  
+root:~# nmap --script-args=unsafe=1 --script smb-check-vulns.nse -p 445 10.0.0.1  
+
+Nmap scan report for ie6winxp.decepticons (10.0.1.1)  
+Host is up (0.00026s latency).  
+PORT STATE SERVICE  
+445/tcp open microsoft-ds  
+Host script results:  
+| smb-check-vulns:  
+| MS08-067: VULNERABLE  
+| Conficker: Likely CLEAN  
+| regsvc DoS: NOT VULNERABLE  
+| SMBv2 DoS (CVE-2009-3103): NOT VULNERABLE  
+|_ MS07-029: NO SERVICE (the Dns Server RPC service is inactive)  
+Nmap done: 1 IP address (1 host up) scanned in 5.45 seconds  
+
+The information gathered during the enumeration indicates the target is vulnerable to MS08-067, exploitation will confirm if it’s vulnerable to MS08-067.  
