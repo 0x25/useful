@@ -5,7 +5,7 @@
                        |______//____  >\___  >__| |____/|____/                  
                                    \/     \/                                   
                                    
-last update 24 june 2016
+last update 28 june 2016
 
 ### Detection
 
@@ -100,6 +100,7 @@ International Journal of Proof-of-Concept or Get The Fuck Out;ebook;https://www.
 mailgun;mail;http://www.mailgun.com/  
 anonymous;OS;https://www.whonix.org/
 owasp test list;pentest;https://www.owasp.org/index.php/Testing_Checklist  
+nmap (lua) IDE;nmap;http://halcyon-ide.org/  
 
 
 
