@@ -5,7 +5,7 @@
                        |______//____  >\___  >__| |____/|____/                  
                                    \/     \/                                   
                                    
-last update 28 june 2016
+last update 29 june 2016
 
 ### Detection
 
@@ -54,6 +54,11 @@ kerberom;windows;https://github.com/Fist0urs/kerberom
 BruteXSS;xss;https://github.com/shawarkhanethicalhacker/BruteXSS  
 otori;xee;http://www.beneaththewaves.net/Software/On_The_Outside_Reaching_In.html#Downloads  
 apktool;apk;http://ibotpeaches.github.io/Apktool/
+
+### Audit
+
+nipper;fw;https://www.titania.com/products/nipper-studio  
+lynis;linux;https://cisofy.com/lynis/  
 
 ### IDS/IPS
 
