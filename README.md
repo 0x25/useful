@@ -6,6 +6,7 @@
                                    \/     \/                                   
                                    
 last update 29 june 2016
+open an issue if a link is dead, thanks  
 
 ### Detection
 
