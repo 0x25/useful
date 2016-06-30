@@ -62,6 +62,10 @@ fiddler;web;https://www.telerik.com/download/fiddler
 nipper;fw;https://www.titania.com/products/nipper-studio  
 lynis;linux;https://cisofy.com/lynis/  
 
+### crack
+
+hashcat;hash;http://hashcat.net/hashcat/  
+
 ### IDS/IPS
 
 snort;ids;https://www.snort.org/downloads  
@@ -93,7 +97,12 @@ hachoir-subfile;linux;apt-get install python-hachoir-subfile
 
 ## network
 
-t50;network;https://sourceforge.net/projects/t50/  
+t50;network;https://sourceforge.net/projects/t50/ 
+tcpdump;linux  
+tshark;linux/win  
+wireshark;linux/win  
+netcat/nc;linux  
+
 
 ## search engine
 
