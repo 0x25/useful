@@ -64,7 +64,8 @@ lynis;linux;https://cisofy.com/lynis/
 
 ### crack
 
-hashcat;hash;http://hashcat.net/hashcat/  
+hashcat;hash;http://hashcat.net/hashcat/ 
+john;hash;http://www.openwall.com/john/  
 
 ### IDS/IPS
 
