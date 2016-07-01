@@ -27,6 +27,7 @@ lastaudit;windows;https://lastaudit.wordpress.com/download/
 subbrute;dns;https://github.com/TheRook/subbrute  
 BTA;active directory;https://bitbucket.org/iwseclabs/bta
 wafw00f;waf;https://github.com/EnableSecurity/wafw00f  
+portquiz;network;http://portquiz.net/  
 
 ### vulnerabilities research
 burp;web;http://portswigger.net/  
