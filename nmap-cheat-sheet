@@ -1,3 +1,12 @@
+scan pentest de base  
+nmap -PN -n -A -sS -p- -oN output.nmap <IP>  
+-Pn : no ping check (host is up),  
+ -n no dns resolution  
+-A : detect systeme info  
+-sT : tcp connect (moins impactant que -sS Syn)  
+-p- : port de 0-65535  
+-oN output.nmap : write utput to file   
+
 ### simple
 nmap -sP 10.0.0.0/24  
 Ping scans the network, listing machines that respond to ping.  
