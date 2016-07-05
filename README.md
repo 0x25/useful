@@ -5,7 +5,7 @@
                        |______//____  >\___  >__| |____/|____/                  
                                    \/     \/                                   
                                    
-last update 01 july 2016  
+last update 05 july 2016  
 open an issue if a link is dead, thanks  
 
 ### Detection
@@ -28,6 +28,8 @@ subbrute;dns;https://github.com/TheRook/subbrute
 BTA;active directory;https://bitbucket.org/iwseclabs/bta
 wafw00f;waf;https://github.com/EnableSecurity/wafw00f  
 portquiz;network;http://portquiz.net/  
+massdns;dns;https://github.com/blechschmidt/massdns  
+
 
 ### vulnerabilities research
 burp;web;http://portswigger.net/  
