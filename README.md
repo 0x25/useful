@@ -125,6 +125,7 @@ mailgun;mail;http://www.mailgun.com/
 anonymous;OS;https://www.whonix.org/
 owasp test list;pentest;https://www.owasp.org/index.php/Testing_Checklist  
 nmap (lua) IDE;nmap;http://halcyon-ide.org/  
+penbox;pentest framework;https://github.com/x3omdax/PenBox  
 
 
 
