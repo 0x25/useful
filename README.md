@@ -5,7 +5,7 @@
                        |______//____  >\___  >__| |____/|____/                  
                                    \/     \/                                   
                                    
-last update 05 july 2016  
+last update 08 july 2016  
 open an issue if a link is dead, thanks  
 
 ### Detection
@@ -59,6 +59,8 @@ BruteXSS;xss;https://github.com/shawarkhanethicalhacker/BruteXSS
 otori;xee;http://www.beneaththewaves.net/Software/On_The_Outside_Reaching_In.html#Downloads  
 apktool;apk;http://ibotpeaches.github.io/Apktool/  
 fiddler;web;https://www.telerik.com/download/fiddler  
+mimikittenz;win;https://github.com/putterpanda/mimikittenz  
+
 
 ### Audit
 
