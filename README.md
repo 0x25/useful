@@ -5,7 +5,7 @@
                        |______//____  >\___  >__| |____/|____/                  
                                    \/     \/                                   
                                    
-last update 08 july 2016  
+last update 18 july 2016  
 open an issue if a link is dead, thanks  
 
 ### Detection
@@ -118,6 +118,10 @@ censys;searchEngine;https://www.censys.io/
 ## ebooks/zine
 
 International Journal of Proof-of-Concept or Get The Fuck Out;ebook;https://www.alchemistowl.org/pocorgtfo/  
+
+## stegano
+
+Matroschka;stegano;https://github.com/fgrimme/Matroschka  
 
 ### other
 
