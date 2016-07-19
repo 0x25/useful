@@ -5,7 +5,7 @@
                        |______//____  >\___  >__| |____/|____/                  
                                    \/     \/                                   
                                    
-last update 18 july 2016  
+last update 19 july 2016  
 open an issue if a link is dead, thanks  
 
 ### Detection
@@ -29,6 +29,7 @@ BTA;active directory;https://bitbucket.org/iwseclabs/bta
 wafw00f;waf;https://github.com/EnableSecurity/wafw00f  
 portquiz;network;http://portquiz.net/  
 massdns;dns;https://github.com/blechschmidt/massdns  
+dvcs-pillage;git;https://github.com/evilpacket/DVCS-Pillage  
 
 
 ### vulnerabilities research
@@ -93,7 +94,8 @@ ida;windows/linux;https://www.hex-rays.com/products/ida/support/download.shtml
 radar;windows/linux;http://radare.org/r/down.html  
 objdump;linux;  
 ollydbg;windows;http://www.ollydbg.de/ 
-binwalk;firmware;http://binwalk.org/
+binwalk;firmware;http://binwalk.org/  
+peid;windows;https://www.aldeid.com/wiki/PEiD  
 
 ## search in file
 
