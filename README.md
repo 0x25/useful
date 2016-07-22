@@ -5,7 +5,7 @@
                        |______//____  >\___  >__| |____/|____/                  
                                    \/     \/                                   
                                    
-last update 19 july 2016  
+last update 22 july 2016  
 open an issue if a link is dead, thanks  
 
 ### Detection
@@ -132,6 +132,7 @@ anonymous;OS;https://www.whonix.org/
 owasp test list;pentest;https://www.owasp.org/index.php/Testing_Checklist  
 nmap (lua) IDE;nmap;http://halcyon-ide.org/  
 penbox;pentest framework;https://github.com/x3omdax/PenBox  
+wireguard;vpn;https://www.wireguard.io/  
 
 
 
