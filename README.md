@@ -30,6 +30,7 @@ wafw00f;waf;https://github.com/EnableSecurity/wafw00f
 portquiz;network;http://portquiz.net/  
 massdns;dns;https://github.com/blechschmidt/massdns  
 dvcs-pillage;git;https://github.com/evilpacket/DVCS-Pillage  
+dmitry;web;apt-get install dmitry  
 
 
 ### vulnerabilities research
