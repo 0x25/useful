@@ -133,6 +133,7 @@ owasp test list;pentest;https://www.owasp.org/index.php/Testing_Checklist
 nmap (lua) IDE;nmap;http://halcyon-ide.org/  
 penbox;pentest framework;https://github.com/x3omdax/PenBox  
 wireguard;vpn;https://www.wireguard.io/  
+Serpico;repport pentest;https://github.com/SerpicoProject/Serpico
 
 
 
