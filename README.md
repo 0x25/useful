@@ -5,12 +5,13 @@
                        |______//____  >\___  >__| |____/|____/                  
                                    \/     \/                                   
                                    
-last update 22 july 2016  
+last update 27 july 2016  
 open an issue if a link is dead, thanks  
 
 ### Detection
 
-yara;https://github.com/plusvic/yara
+yara;network;https://github.com/plusvic/yara  
+haka;network;http://www.haka-security.org/  
 
 ### Identification
 
@@ -31,6 +32,8 @@ portquiz;network;http://portquiz.net/
 massdns;dns;https://github.com/blechschmidt/massdns  
 dvcs-pillage;git;https://github.com/evilpacket/DVCS-Pillage  
 dmitry;web;apt-get install dmitry  
+sslyze;ssl;https://github.com/nabla-c0d3/sslyze  
+ssltest.sh;ssl;https://github.com/drwetter/testssl.sh/  
 
 
 ### vulnerabilities research
