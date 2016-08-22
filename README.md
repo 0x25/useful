@@ -5,7 +5,7 @@
                        |______//____  >\___  >__| |____/|____/                  
                                    \/     \/                                   
                                    
-last update 22 aout 2016  
+last update 22 august 2016  
 open an issue if a link is dead, thanks  
 
 ### Detection
@@ -73,6 +73,7 @@ choronzon;fuzzer;https://github.com/CENSUS/choronzon
 
 nipper;fw;https://www.titania.com/products/nipper-studio  
 lynis;linux;https://cisofy.com/lynis/  
+scan-build;c;http://clang-analyzer.llvm.org/scan-build.html  
 
 ### crack
 
@@ -111,7 +112,7 @@ hachoir-subfile;linux;apt-get install python-hachoir-subfile
 
 ## network
 
-t50;network;https://sourceforge.net/projects/t50/ 
+t50;network;https://sourceforge.net/projects/t50/  
 tcpdump;linux  
 tshark;linux/win  
 wireshark;linux/win  
@@ -131,10 +132,14 @@ International Journal of Proof-of-Concept or Get The Fuck Out;ebook;https://www.
 
 Matroschka;stegano;https://github.com/fgrimme/Matroschka  
 
+### write pentest
+
+public-pentesting-reports;report;https://github.com/juliocesarfort/public-pentesting-reports  
+
 ### other
 
 mailgun;mail;http://www.mailgun.com/  
-anonymous;OS;https://www.whonix.org/
+anonymous;OS;https://www.whonix.org/  
 owasp test list;pentest;https://www.owasp.org/index.php/Testing_Checklist  
 nmap (lua) IDE;nmap;http://halcyon-ide.org/  
 penbox;pentest framework;https://github.com/x3omdax/PenBox  
@@ -142,5 +147,5 @@ wireguard;vpn;https://www.wireguard.io/
 Serpico;repport pentest;https://github.com/SerpicoProject/Serpico  
 winfsp;windows;https://github.com/billziss-gh/winfsp  
 encode;encode;https://encoder.mattiasgeniar.be/index.php  
-
+vulnreport;report;http://vulnreport.io/  
 
