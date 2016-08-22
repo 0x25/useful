@@ -5,7 +5,7 @@
                        |______//____  >\___  >__| |____/|____/                  
                                    \/     \/                                   
                                    
-last update 27 july 2016  
+last update 22 aout 2016  
 open an issue if a link is dead, thanks  
 
 ### Detection
@@ -34,6 +34,7 @@ dvcs-pillage;git;https://github.com/evilpacket/DVCS-Pillage
 dmitry;web;apt-get install dmitry  
 sslyze;ssl;https://github.com/nabla-c0d3/sslyze  
 ssltest.sh;ssl;https://github.com/drwetter/testssl.sh/  
+LHF recon;multiple;https://github.com/blindfuzzy/LHF  
 
 
 ### vulnerabilities research
@@ -138,8 +139,8 @@ owasp test list;pentest;https://www.owasp.org/index.php/Testing_Checklist
 nmap (lua) IDE;nmap;http://halcyon-ide.org/  
 penbox;pentest framework;https://github.com/x3omdax/PenBox  
 wireguard;vpn;https://www.wireguard.io/  
-Serpico;repport pentest;https://github.com/SerpicoProject/Serpico
-winfsp;windows;https://github.com/billziss-gh/winfsp
+Serpico;repport pentest;https://github.com/SerpicoProject/Serpico  
+winfsp;windows;https://github.com/billziss-gh/winfsp  
 encode;encode;https://encoder.mattiasgeniar.be/index.php  
 
 
