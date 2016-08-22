@@ -77,7 +77,7 @@ scan-build;c;http://clang-analyzer.llvm.org/scan-build.html
 
 ### crack
 
-hashcat;hash;http://hashcat.net/hashcat/ 
+hashcat;hash;http://hashcat.net/hashcat/  
 john;hash;http://www.openwall.com/john/  
 
 ### IDS/IPS
