@@ -65,7 +65,7 @@ BruteXSS;xss;https://github.com/shawarkhanethicalhacker/BruteXSS
 otori;xee;http://www.beneaththewaves.net/Software/On_The_Outside_Reaching_In.html#Downloads  
 apktool;apk;http://ibotpeaches.github.io/Apktool/  
 fiddler;web;https://www.telerik.com/download/fiddler  
-mimikittenz;win;https://github.com/putterpanda/mimikittenz 
+mimikittenz;win;https://github.com/putterpanda/mimikittenz  
 choronzon;fuzzer;https://github.com/CENSUS/choronzon  
 
 
