@@ -104,11 +104,12 @@ ollydbg;windows;http://www.ollydbg.de/
 binwalk;firmware;http://binwalk.org/  
 peid;windows;https://www.aldeid.com/wiki/PEiD  
 
-## search in file
+## search file
 
-foremost;linux  
-photorec;linux  
+foremost;linux;  
+photorec;linux;  
 hachoir-subfile;linux;apt-get install python-hachoir-subfile  
+testdisk;*;http://www.cgsecurity.org/wiki/TestDisk_FR  
 
 ## network
 
