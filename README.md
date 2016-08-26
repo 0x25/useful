@@ -35,6 +35,7 @@ dmitry;web;apt-get install dmitry
 sslyze;ssl;https://github.com/nabla-c0d3/sslyze  
 ssltest.sh;ssl;https://github.com/drwetter/testssl.sh/  
 LHF recon;multiple;https://github.com/blindfuzzy/LHF  
+pshtt;https;https://github.com/dhs-ncats/pshtt  
 
 
 ### vulnerabilities research
