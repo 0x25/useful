@@ -98,6 +98,7 @@ metasploitable;vulnerable server;http://sourceforge.net/projects/metasploitable/
 
 gdb;linux;http://www.gnu.org/software/gdb/download/  
 gdb.init;linux;https://gist.github.com/CocoaBeans/1879270  
+peda;gdb;https://github.com/longld/peda  
 ida;windows/linux;https://www.hex-rays.com/products/ida/support/download.shtml  
 radar;windows/linux;http://radare.org/r/down.html  
 objdump;linux;  
