@@ -68,6 +68,7 @@ apktool;apk;http://ibotpeaches.github.io/Apktool/
 fiddler;web;https://www.telerik.com/download/fiddler  
 mimikittenz;win;https://github.com/putterpanda/mimikittenz  
 choronzon;fuzzer;https://github.com/CENSUS/choronzon  
+smod;modbus;https://github.com/enddo/smod  
 
 
 ### Audit
