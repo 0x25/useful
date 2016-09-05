@@ -109,12 +109,13 @@ ollydbg;windows;http://www.ollydbg.de/
 binwalk;firmware;http://binwalk.org/  
 peid;windows;https://www.aldeid.com/wiki/PEiD  
 
-## search file
+## search file/forensic
 
 foremost;linux;  
 photorec;linux;  
 hachoir-subfile;linux;apt-get install python-hachoir-subfile  
 testdisk;*;http://www.cgsecurity.org/wiki/TestDisk_FR  
+RecuperaBit;reconstruct file;https://github.com/Lazza/RecuperaBit  
 
 ## network
 
