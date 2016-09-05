@@ -78,10 +78,11 @@ lynis;linux;https://cisofy.com/lynis/
 scan-build;c;http://clang-analyzer.llvm.org/scan-build.html  
 debsecan;debian;http://www.enyo.de/fw/software/debsecan/  
 
-### crack
+### crack/brute force
 
 hashcat;hash;http://hashcat.net/hashcat/  
 john;hash;http://www.openwall.com/john/  
+Durvasav-BfPC;hash;https://github.com/vishnumaiea/Durvasav-BfPC  
 
 ### IDS/IPS
 
