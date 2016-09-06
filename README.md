@@ -162,3 +162,4 @@ vulnreport;report;http://vulnreport.io/
 metame;code mutation;https://github.com/a0rtega/metame  
 stemjail;jail;https://stemjail.github.io/  
 weevely;backdoor php;http://tools.kali.org/maintaining-access/weevely  
+pwnmalw;vuln in malware;https://www.pwnmalw.re/  
