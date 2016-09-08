@@ -130,6 +130,8 @@ sniffles;generator;https://github.com/petabi/sniffles
 
 shodan;searchEngine;https://www.shodan.io  
 censys;searchEngine;https://www.censys.io/  
+exploitsearch;exploit;http://www.exploitsearch.net/  
+exploit-db;exploit;https://www.exploit-db.com/  
 
 ## ebooks/zine
 
