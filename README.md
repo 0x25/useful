@@ -166,3 +166,4 @@ stemjail;jail;https://stemjail.github.io/
 weevely;backdoor php;http://tools.kali.org/maintaining-access/weevely  
 pwnmalw;vuln in malware;https://www.pwnmalw.re/  
 screentogif;record;https://screentogif.codeplex.com/  
+php-security-pitfalls;test vuln web;https://github.com/joostvanveen/php-security-pitfalls  
