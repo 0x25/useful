@@ -149,6 +149,10 @@ public-pentesting-reports;report;https://github.com/juliocesarfort/public-pentes
 
 apkr;android;https://github.com/zerjioang/apkr  
 
+## learning
+
+metasploit-unleashed;free training;https://www.offensive-security.com/metasploit-unleashed  
+
 ## other
 
 mailgun;mail;http://www.mailgun.com/  
