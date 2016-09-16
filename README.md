@@ -71,6 +71,7 @@ mimikittenz;win;https://github.com/putterpanda/mimikittenz
 choronzon;fuzzer;https://github.com/CENSUS/choronzon  
 smod;modbus;https://github.com/enddo/smod  
 vega;web;https://subgraph.com/vega  
+ridenum;windows;https://github.com/trustedsec/ridenum  
 
 ### Audit
 
