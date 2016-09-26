@@ -151,6 +151,7 @@ public-pentesting-reports;report;https://github.com/juliocesarfort/public-pentes
 ## android
 
 apkr;android;https://github.com/zerjioang/apkr  
+genymotion;emulator;https://www.genymotion.com  
 
 ## learning
 
