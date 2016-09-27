@@ -87,6 +87,9 @@ hashcat;hash;http://hashcat.net/hashcat/
 john;hash;http://www.openwall.com/john/  
 Durvasav-BfPC;hash;https://github.com/vishnumaiea/Durvasav-BfPC  
 
+## malware vector
+luckystrike;xlsx;https://github.com/Shellntel/luckystrike  
+
 ### IDS/IPS
 
 snort;ids;https://www.snort.org/downloads  
