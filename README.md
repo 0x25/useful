@@ -5,7 +5,7 @@
                        |______//____  >\___  >__| |____/|____/                  
                                    \/     \/                                   
                                    
-last update 13 sept 2016  
+last update 28 sept 2016  
 open an issue if a link is dead, thanks  
 
 ### Detection
@@ -186,3 +186,5 @@ SEI+CERT+Coding+Standards;code standard;https://www.securecoding.cert.org/conflu
 HTTP-Over-Protocol;tunnel;https://github.com/sakshamsharma/HTTP-Over-Protocol  
 scans.io;db;https://scans.io/  
 agarri; nicolas gregoire;http://www.agarri.fr/en/index.html  
+Linux_Exploit_Suggester;linux;https://github.com/PenturaLabs/Linux_Exploit_Suggester  
+Windows-Exploit-Suggester;windows;https://github.com/GDSSecurity/Windows-Exploit-Suggester  
