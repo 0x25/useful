@@ -188,3 +188,4 @@ scans.io;db;https://scans.io/
 agarri; nicolas gregoire;http://www.agarri.fr/en/index.html  
 Linux_Exploit_Suggester;linux;https://github.com/PenturaLabs/Linux_Exploit_Suggester  
 Windows-Exploit-Suggester;windows;https://github.com/GDSSecurity/Windows-Exploit-Suggester  
+sandcat;browser;http://www.syhunt.com/sandcat/  
