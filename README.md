@@ -91,24 +91,20 @@ Durvasav-BfPC;hash;https://github.com/vishnumaiea/Durvasav-BfPC
 luckystrike;xlsx;https://github.com/Shellntel/luckystrike  
 
 ### IDS/IPS
-
 snort;ids;https://www.snort.org/downloads  
 suricata;ids;https://suricata-ids.org/download/  
 bro;ids;https://www.bro.org/download/index.html  
 
 ### FW
-
 fireaway;ngfw pypass;https://github.com/tcstool/fireaway  
 
 ### honeypot
 
 
 ### learn
-
 metasploitable;vulnerable server;http://sourceforge.net/projects/metasploitable/  
 
 ### reverse
-
 gdb;linux;http://www.gnu.org/software/gdb/download/  
 gdb.init;linux;https://gist.github.com/CocoaBeans/1879270  
 peda;gdb;https://github.com/longld/peda  
@@ -120,7 +116,6 @@ binwalk;firmware;http://binwalk.org/
 peid;windows;https://www.aldeid.com/wiki/PEiD  
 
 ## search file/forensic
-
 foremost;linux;  
 photorec;linux;  
 hachoir-subfile;linux;apt-get install python-hachoir-subfile  
@@ -128,16 +123,15 @@ testdisk;*;http://www.cgsecurity.org/wiki/TestDisk_FR
 RecuperaBit;reconstruct file;https://github.com/Lazza/RecuperaBit  
 
 ## network
-
 t50;network;https://sourceforge.net/projects/t50/  
 tcpdump;linux  
 tshark;linux/win  
 wireshark;linux/win  
 netcat/nc;linux  
 sniffles;generator;https://github.com/petabi/sniffles  
+dnscat2;tunnel;https://github.com/iagox86/dnscat2  
 
 ## search engine
-
 shodan;searchEngine;https://www.shodan.io  
 censys;searchEngine;https://www.censys.io/  
 exploitsearch;exploit;http://www.exploitsearch.net/  
