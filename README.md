@@ -73,6 +73,7 @@ choronzon;fuzzer;https://github.com/CENSUS/choronzon
 smod;modbus;https://github.com/enddo/smod  
 vega;web;https://subgraph.com/vega  
 ridenum;windows;https://github.com/trustedsec/ridenum  
+vsaudit;VOIP;https://github.com/sanvil/vsaudit  
 
 ### Audit
 
