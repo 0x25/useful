@@ -159,6 +159,11 @@ genymotion;emulator;https://www.genymotion.com
 
 metasploit-unleashed;free training;https://www.offensive-security.com/metasploit-unleashed  
 
+## backdoor
+
+tinyshell;php;https://github.com/lawrenceamer/tinyshell  
+weevely;backdoor php;http://tools.kali.org/maintaining-access/weevely 
+
 ## other
 
 mailgun;mail;http://www.mailgun.com/  
@@ -172,8 +177,7 @@ winfsp;windows;https://github.com/billziss-gh/winfsp
 encode;encode;https://encoder.mattiasgeniar.be/index.php  
 vulnreport;report;http://vulnreport.io/  
 metame;code mutation;https://github.com/a0rtega/metame  
-stemjail;jail;https://stemjail.github.io/  
-weevely;backdoor php;http://tools.kali.org/maintaining-access/weevely  
+stemjail;jail;https://stemjail.github.io/   
 pwnmalw;vuln in malware;https://www.pwnmalw.re/  
 screentogif;record;https://screentogif.codeplex.com/  
 php-security-pitfalls;test vuln web;https://github.com/joostvanveen/php-security-pitfalls  
