@@ -165,6 +165,9 @@ metasploit-unleashed;free training;https://www.offensive-security.com/metasploit
 tinyshell;php;https://github.com/lawrenceamer/tinyshell  
 weevely;backdoor php;http://tools.kali.org/maintaining-access/weevely 
 
+## fishing
+king-phisher;fishing;https://github.com/securestate/king-phisher/releases  
+
 ## other
 
 mailgun;mail;http://www.mailgun.com/  
