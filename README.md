@@ -193,3 +193,4 @@ Linux_Exploit_Suggester;linux;https://github.com/PenturaLabs/Linux_Exploit_Sugge
 Windows-Exploit-Suggester;windows;https://github.com/GDSSecurity/Windows-Exploit-Suggester  
 sandcat;browser;http://www.syhunt.com/sandcat/  
 dracos-linux;pentest OS;http://www.dracos-linux.org/  
+OWASP;recommandation;https://github.com/OWASP  
