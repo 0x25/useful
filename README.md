@@ -40,6 +40,7 @@ fuzzdb;fuzz db;https://github.com/fuzzdb-project/fuzzdb
 
 
 ### vulnerabilities research
+nmap;port scanner;https://nmap.org/  
 burp;web;http://portswigger.net/  
 Burp-Non-HTTP-Extension;web burp extension;https://github.com/summitt/Burp-Non-HTTP-Extension  
 zap;web;https://github.com/zaproxy/zaproxy/wiki/Downloads  
@@ -174,6 +175,7 @@ mailgun;mail;http://www.mailgun.com/
 anonymous;OS;https://www.whonix.org/  
 owasp test list;pentest;https://www.owasp.org/index.php/Testing_Checklist  
 nmap (lua) IDE;nmap;http://halcyon-ide.org/  
+http-screenshot;nmap nse;https://github.com/SpiderLabs/Nmap-Tools/blob/master/NSE/http-screenshot.nse  
 penbox;pentest framework;https://github.com/x3omdax/PenBox  
 wireguard;vpn;https://www.wireguard.io/  
 Serpico;repport pentest;https://github.com/SerpicoProject/Serpico  
