@@ -160,6 +160,7 @@ genymotion;emulator;https://www.genymotion.com
 ## learning
 
 metasploit-unleashed;free training;https://www.offensive-security.com/metasploit-unleashed  
+bWapp;web vuln;http://www.itsecgames.com/  
 
 ## backdoor
 
