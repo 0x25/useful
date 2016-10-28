@@ -102,10 +102,6 @@ fireaway;ngfw pypass;https://github.com/tcstool/fireaway
 
 ### honeypot
 
-
-### learn
-metasploitable;vulnerable server;http://sourceforge.net/projects/metasploitable/  
-
 ### reverse
 gdb;linux;http://www.gnu.org/software/gdb/download/  
 gdb.init;linux;https://gist.github.com/CocoaBeans/1879270  
@@ -197,3 +193,4 @@ Windows-Exploit-Suggester;windows;https://github.com/GDSSecurity/Windows-Exploit
 sandcat;browser;http://www.syhunt.com/sandcat/  
 dracos-linux;pentest OS;http://www.dracos-linux.org/  
 OWASP;recommandation;https://github.com/OWASP  
+Web_Application_Security_Testing_Cheat_Sheet;tests;https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet  
