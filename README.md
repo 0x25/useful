@@ -157,6 +157,7 @@ genymotion;emulator;https://www.genymotion.com
 
 metasploit-unleashed;free training;https://www.offensive-security.com/metasploit-unleashed  
 bWapp;web vuln;http://www.itsecgames.com/  
+building-your-own-pentesting-environment;lab;http://resources.infosecinstitute.com/building-your-own-pentesting-environment/  
 
 ## backdoor
 
