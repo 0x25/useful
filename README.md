@@ -200,3 +200,4 @@ OWASP;recommandation;https://github.com/OWASP
 Web_Application_Security_Testing_Cheat_Sheet;tests;https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet  
 cryptomator;chiffrement cloud;https://cryptomator.org/  
 awesome-pentest;tools;https://github.com/enaqx/awesome-pentest  
+g0tmi1k;blog;https://blog.g0tmi1k.com  
