@@ -160,6 +160,7 @@ metasploit-unleashed;free training;https://www.offensive-security.com/metasploit
 bWapp;web vuln;http://www.itsecgames.com/  
 building-your-own-pentesting-environment;lab;http://resources.infosecinstitute.com/building-your-own-pentesting-environment/  
 webgoat;java vuln;https://github.com/webgoat  
+pwnos;vuln;http://pwnos.com/  
 
 ## backdoor
 
