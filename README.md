@@ -15,6 +15,7 @@ haka;network;http://www.haka-security.org/
 
 ### Identification
 
+netdiscover;network discover;http://www.tuto-linux.com/tutoriel/netdiscover-scan-furtif-dun-reseau-avec-arp/  
 nmap;network scanner;https://nmap.org/download.html  
 synscan;network scanner;https://packetstormsecurity.com/files/download/62221/synscan-5.0.tar.gz  
 webappalyzer;CMS identification;https://wappalyzer.com/  
