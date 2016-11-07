@@ -5,7 +5,7 @@
                        |______//____  >\___  >__| |____/|____/                  
                                    \/     \/                                   
                                    
-last update 28 sept 2016  
+last update 07 nov 2016  
 open an issue if a link is dead, thanks  
 
 ### Detection
@@ -166,6 +166,7 @@ pwnos;vuln;http://pwnos.com/
 
 tinyshell;php;https://github.com/lawrenceamer/tinyshell  
 weevely;backdoor php;http://tools.kali.org/maintaining-access/weevely 
+php-reverse-shell;php reverse;http://pentestmonkey.net/tools/web-shells/php-reverse-shell  
 
 ## fishing
 king-phisher;fishing;https://github.com/securestate/king-phisher/releases  
