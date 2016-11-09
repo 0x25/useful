@@ -113,6 +113,7 @@ objdump;linux;
 ollydbg;windows;http://www.ollydbg.de/ 
 binwalk;firmware;http://binwalk.org/  
 peid;windows;https://www.aldeid.com/wiki/PEiD  
+dnSpy;.NET;https://github.com/0xd4d/dnSpy  
 
 ## search file/forensic
 foremost;linux;  
