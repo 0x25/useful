@@ -163,6 +163,7 @@ bWapp;web vuln;http://www.itsecgames.com/
 building-your-own-pentesting-environment;lab;http://resources.infosecinstitute.com/building-your-own-pentesting-environment/  
 webgoat;java vuln;https://github.com/webgoat  
 pwnos;vuln;http://pwnos.com/  
+pentesterlab;training;https://www.pentesterlab.com/  
 
 ## backdoor
 
