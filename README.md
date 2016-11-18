@@ -46,6 +46,7 @@ burp;web;http://portswigger.net/
 Burp-Non-HTTP-Extension;web burp extension;https://github.com/summitt/Burp-Non-HTTP-Extension  
 zap;web;https://github.com/zaproxy/zaproxy/wiki/Downloads  
 sqlmap;sqli;http://sqlmap.org/  
+jsql-injection;sqli;https://github.com/ron190/jsql-injection  
 havij,sqli;http://itsecteam.com/  
 nessus;server;http://www.tenable.com/products/nessus/select-your-operating-system  
 metasploit;pentest framework;http://www.rapid7.com/products/metasploit/  
