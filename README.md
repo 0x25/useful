@@ -175,6 +175,10 @@ php-reverse-shell;php reverse;http://pentestmonkey.net/tools/web-shells/php-reve
 ## fishing
 king-phisher;fishing;https://github.com/securestate/king-phisher/releases  
 
+# dictionnary
+
+CeWL;genrator on url;https://github.com/digininja/CeWL  
+
 ## other
 
 mailgun;mail;http://www.mailgun.com/  
