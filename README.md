@@ -133,6 +133,7 @@ netcat/nc;linux
 sniffles;generator;https://github.com/petabi/sniffles  
 dnscat2;tunnel;https://github.com/iagox86/dnscat2  
 petabi;pcap generator;http://petabi.com/  
+netsniff-ng;network;https://github.com/netsniff-ng/netsniff-ng  
 
 ## search engine
 shodan;searchEngine;https://www.shodan.io  
