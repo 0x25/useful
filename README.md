@@ -220,4 +220,4 @@ cryptomator;chiffrement cloud;https://cryptomator.org/
 awesome-pentest;tools;https://github.com/enaqx/awesome-pentest  
 g0tmi1k;blog;https://blog.g0tmi1k.com  
 CyberChef; enc dec code decode;https://gchq.github.io/CyberChef/  
-
+kakoune;text editor;http://kakoune.org/  
