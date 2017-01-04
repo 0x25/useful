@@ -16,6 +16,7 @@ haka;network;http://www.haka-security.org/
 
 netdiscover;network discover;http://www.tuto-linux.com/tutoriel/netdiscover-scan-furtif-dun-reseau-avec-arp/  
 nmap;network scanner;https://nmap.org/download.html  
+fping; ping net;http://fping.org/  
 synscan;network scanner;https://packetstormsecurity.com/files/download/62221/synscan-5.0.tar.gz  
 webappalyzer;CMS identification;https://wappalyzer.com/  
 builtwith;CMS identification;http://builtwith.com/  
@@ -119,7 +120,7 @@ dnSpy;.NET;https://github.com/0xd4d/dnSpy
 foremost;linux;  
 photorec;linux;  
 hachoir-subfile;linux;apt-get install python-hachoir-subfile  
-testdisk;*;http://www.cgsecurity.org/wiki/TestDisk_FR  
+testdisk;;http://www.cgsecurity.org/wiki/TestDisk_FR  
 RecuperaBit;reconstruct file;https://github.com/Lazza/RecuperaBit  
 peepdf;pdf;http://eternal-todo.com/tools/peepdf-pdf-analysis-tool  
 
