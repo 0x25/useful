@@ -83,6 +83,7 @@ nipper;fw;https://www.titania.com/products/nipper-studio
 lynis;linux;https://cisofy.com/lynis/  
 scan-build;c;http://clang-analyzer.llvm.org/scan-build.html  
 debsecan;debian;http://www.enyo.de/fw/software/debsecan/  
+lunar;linux;https://github.com/lateralblast/lunar  
 
 ## crack/brute force
 
