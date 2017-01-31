@@ -227,4 +227,4 @@ cyberprobe;attack monitoring;http://cyberprobe.sourceforge.net/
 pushed;phone notification;https://pushed.co  
 freegeoip;freegeoip;https://freegeoip.net  
 awesome-malware-analysis;tools;https://github.com/rshipp/awesome-malware-analysis  
-
+laverna;notes;https://laverna.cc    
