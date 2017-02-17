@@ -76,7 +76,7 @@ smod;modbus;https://github.com/enddo/smod
 vega;web;https://subgraph.com/vega  
 ridenum;windows;https://github.com/trustedsec/ridenum  
 vsaudit;VOIP;https://github.com/sanvil/vsaudit  
-Responder;windows;https://github.com/SpiderLabs/Responder  
+Responder;windows;https://github.com/lgandx/Responder  
 
 ## Audit
 
