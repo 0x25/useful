@@ -77,6 +77,7 @@ vega;web;https://subgraph.com/vega
 ridenum;windows;https://github.com/trustedsec/ridenum  
 vsaudit;VOIP;https://github.com/sanvil/vsaudit  
 Responder;windows;https://github.com/lgandx/Responder  
+PowerSploit;windows;https://github.com/PowerShellMafia/PowerSploit
 
 ## Audit
 
