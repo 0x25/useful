@@ -191,7 +191,7 @@ scapy-fakeap;fakeap;https://github.com/rpp0/scapy-fakeap
 
 backbox;ISO;https://backbox.org  
 
-## Readtime
+## Readteam
 
 PlugBot-Plug;;https://github.com/redteamsecurity/PlugBot-Plug  
 
