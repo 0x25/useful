@@ -191,6 +191,10 @@ scapy-fakeap;fakeap;https://github.com/rpp0/scapy-fakeap
 
 backbox;ISO;https://backbox.org  
 
+## Readtime
+
+PlugBot-Plug;;https://github.com/redteamsecurity/PlugBot-Plug  
+
 ## other
 
 mailgun;mail;http://www.mailgun.com/  
