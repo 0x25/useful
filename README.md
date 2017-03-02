@@ -37,6 +37,7 @@ ssltest.sh;ssl;https://github.com/drwetter/testssl.sh/
 LHF recon;multiple;https://github.com/blindfuzzy/LHF  
 pshtt;https;https://github.com/dhs-ncats/pshtt  
 fuzzdb;fuzz db;https://github.com/fuzzdb-project/fuzzdb  
+sparta;linux;http://sparta.secforce.com/  
 
 
 ## vulnerabilities research
