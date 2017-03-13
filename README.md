@@ -199,6 +199,9 @@ backbox;ISO;https://backbox.org
 
 PlugBot-Plug;;https://github.com/redteamsecurity/PlugBot-Plug  
 
+## webservice
+webservice;*;http://www.ws-attacks.org/Welcome_to_WS-Attacks  
+
 ## other
 
 mailgun;mail;http://www.mailgun.com/  
