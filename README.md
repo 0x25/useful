@@ -38,7 +38,7 @@ LHF recon;multiple;https://github.com/blindfuzzy/LHF
 pshtt;https;https://github.com/dhs-ncats/pshtt  
 fuzzdb;fuzz db;https://github.com/fuzzdb-project/fuzzdb  
 sparta;linux;http://sparta.secforce.com/  
-
+operative;fingerprinting;https://github.com/graniet/operative-framework  
 
 ## vulnerabilities research
 nmap;port scanner;https://nmap.org/  
