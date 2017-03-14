@@ -178,6 +178,7 @@ pentesterlab;training;https://www.pentesterlab.com/
 tinyshell;php;https://github.com/lawrenceamer/tinyshell  
 weevely;backdoor php;http://tools.kali.org/maintaining-access/weevely 
 php-reverse-shell;php reverse;http://pentestmonkey.net/tools/web-shells/php-reverse-shell  
+pupy;rat;https://github.com/n1nj4sec/pupy  
 
 ## fishing
 
