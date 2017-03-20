@@ -5,7 +5,9 @@ nmap -PN -n -A -sS -p- -oN output.nmap <IP>
 -A : detect systeme info  
 -sT : tcp connect (moins impactant que -sS Syn)  
 -p- : port de 0-65535  
--oN output.nmap : write utput to file   
+-oN output.nmap : write utput to file 
+
+ajouter un scan udp en parallèle -sU (dns, ipsec ...)
 
 ### simple
 nmap -sP 10.0.0.0/24  
