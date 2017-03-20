@@ -9,6 +9,11 @@ nmap -PN -n -A -sS -p- -oN output.nmap <IP>
 
 ajouter un scan udp en parallèle -sU (dns, ipsec ...)
 
+etats :
+OPEN (serveur SYN/ACK)
+CLOSE (serveur RESET)
+FILERED (pas de réponse; droper par un équipment)
+
 ### simple
 nmap -sP 10.0.0.0/24  
 Ping scans the network, listing machines that respond to ping.  
