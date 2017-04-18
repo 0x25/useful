@@ -174,6 +174,7 @@ building-your-own-pentesting-environment;lab;http://resources.infosecinstitute.c
 webgoat;java vuln;https://github.com/webgoat  
 pwnos;vuln;http://pwnos.com/  
 pentesterlab;training;https://www.pentesterlab.com/  
+WordSteal;linux;https://github.com/0x090x0/WordSteal  
 
 ## backdoor
 
