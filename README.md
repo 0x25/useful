@@ -146,8 +146,10 @@ netsniff-ng;network;https://github.com/netsniff-ng/netsniff-ng
 ## search engine
 shodan;searchEngine;https://www.shodan.io  
 censys;searchEngine;https://www.censys.io/  
+censys;searchEngine;https://www.zoomeye.org/  
 exploitsearch;exploit;http://www.exploitsearch.net/  
 exploit-db;exploit;https://www.exploit-db.com/  
+vulnerabilities,vuln;https://www.seebug.org/  
 
 ## ebooks/zine
 
