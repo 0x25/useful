@@ -78,7 +78,7 @@ vega;web;https://subgraph.com/vega
 ridenum;windows;https://github.com/trustedsec/ridenum  
 vsaudit;VOIP;https://github.com/sanvil/vsaudit  
 Responder;windows;https://github.com/lgandx/Responder  
-PowerSploit;windows;https://github.com/PowerShellMafia/PowerSploit
+PowerSploit;windows;https://github.com/PowerShellMafia/PowerSploit  
 LLMNR;powershell;https://github.com/nbs-system/php-malware-finder  
 mimipenguin;linux;https://github.com/huntergregal/mimipenguin  
 
@@ -123,6 +123,7 @@ ollydbg;windows;http://www.ollydbg.de/
 binwalk;firmware;http://binwalk.org/  
 peid;windows;https://www.aldeid.com/wiki/PEiD  
 dnSpy;.NET;https://github.com/0xd4d/dnSpy  
+veles;binary;https://codisec.com/veles/  
 
 ## search file/forensic
 foremost;linux;  
