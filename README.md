@@ -252,4 +252,4 @@ Metarouter;network;https://wiki.mikrotik.com/wiki/Manual:Metarouter
 ShadowBuster;vuln map;https://github.com/indeedops/ShadowBuster  
 certbot;cert ssl free;https://certbot.eff.org/  
 panwdbl;malwareIPdB;http://panwdbl.appspot.com/  
-
+conemu;telnet client;https://conemu.github.io/  
