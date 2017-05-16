@@ -1,0 +1,104 @@
+
+literature :
+    http://blog.thoward37.me/articles/where-are-docker-images-stored/
+    https://themimitoof.fr/mettre-place-relais-tor-docker/
+
+idée
+faire une interface cli avec dialog ! http://lea-linux.org/documentations/Dev-dialog
+
+
+docker-engine = socle
+dockerfile = fichier d'instruction pour construire une image
+docker hub = portail pour stocker des images docker https://hub.docker.com/
+ 
+rechercher un container :
+sudo docker search <string>
+
+télécharger un container :
+sudo docker pull <container-name>
+
+lancer le container 
+sudo docker run -it <container-name>
+
+sortir du container avec exit ne supprime pas le container
+
+lancer le container en tache de fond -d
+
+récupérer les id des containers
+sudo docker ps -a 
+sudo docker ps -aq
+
+tuer un container (ne le supprime pas)
+sudo docker kill <id>
+
+supprimer un container  (arrete)
+sudo docker rm <id>
+
+sauvergarder une image ( faire les modi sur un container puis exit)
+sudo docker commit -m "modife patati" -a "auteur" <id> <name>
+
+lister les images (commit)
+sudo docker images
+
+récupérer le première ID de la list
+id=$(sudo docker ps -aq |  head -n 2 | tail -n 1)
+
+
+configurer un proxy sur une fresh image (dans dockerfile !)
+
+echo "Acquire::http::Proxy \"http://utilisateur:motdepasse@example.com:port\";" > /etc/apt/apt.conf.d/proxy
+
+packages utiles sur les images de base ( genre ubuntu)
+apt-get install iputils-ping nano net-tools vim iproute2 tcpdump openssh-server
+
+utilisation des filtres 
+docker inspect --type=container --format='{{.Created}}'  <id>
+
+docker inspect --type=image --format='{{index .RepoTags 0}}'     > name:version
+
+run un container en démarant sshd (si openssh installé) et le port port ? dans docker inspect --type=container id
+docker run ubuntu /usr/sbin/sshd -D
+
+stopper tous les containers
+for con in $(sudo docker ps -qa); do sudo docker rm $con; done
+
+lancer une, image en mode interractif en tache de fond (-di) avec ouverture de port
+sudo docker run --name test -p 2222:22 -di <image>
+
+
+ouvrir un shell sur un container 
+sudo docker exec -it <id> /bin/bash
+
+
+ctrl+p ctrl+q to return to host
+
+docker fait de la completion sur les ID
+sur un docker ps -a il y a les ID qui sont en faites tronqués !
+exemple ID 66b9bbe92e02 
+est en faite un hash 256 bien plus long. en faisant tab l'id complet apparait ou dans inspect. 
+Il est possible de passer juste les premiers string de l'id en CLI : sudo docker exec -it 66b /bin/bash
+
+
+afficher les ports utilisés par un container
+sudo docker port <id>
+
+afficher les informations de port spécifique dans un container
+sudo docker port <id> <port>
+
+supprimer un tag /image
+docker rmi <tagname>
+  
+
+exposer plusieurs ports sur le container
+docker run -p <host_port1>:<container_port1> -p <host_port2>:<container_port2> <image id>
+
+
+afficher les ports bindé d'un container
+sudo docker inspect --format='{{rang $p,$conf := .HostConfig.PortBindings}} {{$p}} -> {{( index $conf' 0).HostPort}} {{end}}' <id>
+
+
+Dockerfile
+Docker can build images automatically by reading the instructions from aDockerfile
+
+docker build -f /path/to/a/Dockerfile -t reponame .
+
