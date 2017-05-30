@@ -255,3 +255,4 @@ panwdbl;malwareIPdB;http://panwdbl.appspot.com/
 conemu;telnet client;https://conemu.github.io/  
 testconnectivity;mail header;https://testconnectivity.microsoft.com/  
 hiddent-tear;ransomware code;https://github.com/goliate/hidden-tear  
+Heap Exploitation;learning;https://heap-exploitation.dhavalkapil.com/  
