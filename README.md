@@ -36,7 +36,7 @@ sslyze;ssl;https://github.com/nabla-c0d3/sslyze
 ssltest.sh;ssl;https://github.com/drwetter/testssl.sh/  
 LHF recon;multiple;https://github.com/blindfuzzy/LHF  
 pshtt;https;https://github.com/dhs-ncats/pshtt  
-fuzzdb;fuzz db;https://github.com/fuzzdb-project/fuzzdb  
+fuzzdb;liste patern;https://github.com/fuzzdb-project/fuzzdb  
 sparta;linux;http://sparta.secforce.com/  
 operative;fingerprinting;https://github.com/graniet/operative-framework  
 
@@ -147,7 +147,7 @@ netsniff-ng;network;https://github.com/netsniff-ng/netsniff-ng
 ## search engine
 shodan;searchEngine;https://www.shodan.io  
 censys;searchEngine;https://www.censys.io/  
-censys;searchEngine;https://www.zoomeye.org/  
+zoomeye;searchEngine;https://www.zoomeye.org/  
 exploitsearch;exploit;http://www.exploitsearch.net/  
 exploit-db;exploit;https://www.exploit-db.com/  
 vulnerabilities,vuln;https://www.seebug.org/  
@@ -182,7 +182,7 @@ WordSteal;linux;https://github.com/0x090x0/WordSteal
 ## backdoor
 
 tinyshell;php;https://github.com/lawrenceamer/tinyshell  
-weevely;backdoor php;http://tools.kali.org/maintaining-access/weevely 
+weevely;backdoor php;http://tools.kali.org/maintaining-access/weevely  
 php-reverse-shell;php reverse;http://pentestmonkey.net/tools/web-shells/php-reverse-shell  
 pupy;rat;https://github.com/n1nj4sec/pupy  
 
