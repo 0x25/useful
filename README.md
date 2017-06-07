@@ -197,6 +197,8 @@ CeWL;genrator on url;https://github.com/digininja/CeWL
 ## wifi
 
 scapy-fakeap;fakeap;https://github.com/rpp0/scapy-fakeap  
+LANs;mitm;https://github.com/DanMcInerney/LANs.py
+MITMf;mitm ++;https://github.com/byt3bl33d3r/MITMf  
 
 ## distrib
 
