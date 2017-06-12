@@ -81,6 +81,7 @@ Responder;windows;https://github.com/lgandx/Responder
 PowerSploit;windows;https://github.com/PowerShellMafia/PowerSploit  
 LLMNR;powershell;https://github.com/nbs-system/php-malware-finder  
 mimipenguin;linux;https://github.com/huntergregal/mimipenguin  
+getsploit;getsploit;https://github.com/vulnersCom/getsploit  
 
 ## Audit
 
