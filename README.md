@@ -212,6 +212,9 @@ PlugBot-Plug;;https://github.com/redteamsecurity/PlugBot-Plug
 ## webservice
 webservice;*;http://www.ws-attacks.org/Welcome_to_WS-Attacks  
 
+## windows
+regshot;regedit snapshot;https://sourceforge.net/projects/regshot/  
+
 ## other
 
 mailgun;mail;http://www.mailgun.com/  
