@@ -215,6 +215,9 @@ webservice;*;http://www.ws-attacks.org/Welcome_to_WS-Attacks
 ## windows
 regshot;regedit snapshot;https://sourceforge.net/projects/regshot/  
 
+## database leek
+databases;db;https://www.databases.today/search.php  
+
 ## other
 
 mailgun;mail;http://www.mailgun.com/  
