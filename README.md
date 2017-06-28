@@ -271,3 +271,4 @@ osquery;survey;https://osquery.io/
 postgresql_online_compiler;postgreSQL;http://rextester.com/l/postgresql_online_compiler;  
 pumascan;.NET analyser vuln;https://www.pumascan.com/  
 scikit-learn;python machine learning;http://scikit-learn.org  
+cutycapt;cli screenshot linux;http://cutycapt.sourceforge.net/  
