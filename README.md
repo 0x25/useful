@@ -40,6 +40,7 @@ pshtt;https;https://github.com/dhs-ncats/pshtt
 fuzzdb;liste patern;https://github.com/fuzzdb-project/fuzzdb  
 sparta;linux;http://sparta.secforce.com/  
 operative;fingerprinting;https://github.com/graniet/operative-framework  
+SIPvicious;SIP;https://github.com/EnableSecurity/sipvicious  
 
 ## vulnerabilities research
 nmap;port scanner;https://nmap.org/  
