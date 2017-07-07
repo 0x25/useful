@@ -274,3 +274,4 @@ postgresql_online_compiler;postgreSQL;http://rextester.com/l/postgresql_online_c
 pumascan;.NET analyser vuln;https://www.pumascan.com/  
 scikit-learn;python machine learning;http://scikit-learn.org  
 cutycapt;cli screenshot linux;http://cutycapt.sourceforge.net/  
+php rop gadget;php;https://www.ambionics.io/blog/php-generic-gadget-chains  
