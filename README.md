@@ -182,6 +182,7 @@ webgoat;java vuln;https://github.com/webgoat
 pwnos;vuln;http://pwnos.com/  
 pentesterlab;training;https://www.pentesterlab.com/  
 WordSteal;linux;https://github.com/0x090x0/WordSteal  
+websec;challenge;https://websec.fr  
 
 ## backdoor
 
