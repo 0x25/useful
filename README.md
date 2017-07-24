@@ -221,6 +221,8 @@ regshot;regedit snapshot;https://sourceforge.net/projects/regshot/
 
 ## database leek
 databases;db;https://www.databases.today/search.php  
+weakpass;password;http://weakpass.com/  
+
 
 ## other
 
