@@ -183,6 +183,7 @@ pwnos;vuln;http://pwnos.com/
 pentesterlab;training;https://www.pentesterlab.com/  
 WordSteal;linux;https://github.com/0x090x0/WordSteal  
 websec;challenge;https://websec.fr  
+maltran;malware;https://github.com/MalwareReverseBrasil/maltran  
 
 ## backdoor
 
