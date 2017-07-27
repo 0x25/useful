@@ -224,6 +224,8 @@ regshot;regedit snapshot;https://sourceforge.net/projects/regshot/
 databases;db;https://www.databases.today/search.php  
 weakpass;password;http://weakpass.com/  
 
+## canary  
+canary;token;https://canarytokens.org  
 
 ## other
 
