@@ -134,3 +134,10 @@ Host script results:
 Nmap done: 1 IP address (1 host up) scanned in 5.45 seconds  
 
 The information gathered during the enumeration indicates the target is vulnerable to MS08-067, exploitation will confirm if it’s vulnerable to MS08-067.  
+
+
+https://github.com/scipag/vulscan  
+
+
+
+
