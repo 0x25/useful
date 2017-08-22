@@ -229,6 +229,9 @@ weakpass;password;http://weakpass.com/
 ## canary  
 canary;token;https://canarytokens.org  
 
+## usb  
+P4wnP1;windows;https://github.com/mame82/P4wnP1  
+
 ## other
 
 mailgun;mail;http://www.mailgun.com/  
