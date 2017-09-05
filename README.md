@@ -222,6 +222,7 @@ webservice;*;http://www.ws-attacks.org/Welcome_to_WS-Attacks
 
 ## windows
 regshot;regedit snapshot;https://sourceforge.net/projects/regshot/  
+luckystrike;xls word;https://www.shellntel.com/blog/2016/9/13/luckystrike-a-database-backed-evil-macro-generator  
 
 ## database leek
 databases;db;https://www.databases.today/search.php  
