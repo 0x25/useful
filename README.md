@@ -216,6 +216,7 @@ backbox;ISO;https://backbox.org
 ## Readteam
 
 PlugBot-Plug;;https://github.com/redteamsecurity/PlugBot-Plug  
+exploitpack;exploit kit;https://exploitpack.com  
 
 ## webservice
 webservice;*;http://www.ws-attacks.org/Welcome_to_WS-Attacks  
