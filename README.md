@@ -104,6 +104,7 @@ Durvasav-BfPC;hash;https://github.com/vishnumaiea/Durvasav-BfPC
 
 ## malware vector
 luckystrike;xlsx;https://github.com/Shellntel/luckystrike  
+dasmalwerk;malware dl;http://dasmalwerk.eu/  
 
 ## IDS/IPS
 snort;ids;https://www.snort.org/downloads  
