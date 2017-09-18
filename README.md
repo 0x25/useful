@@ -212,6 +212,10 @@ LANs;mitm;https://github.com/DanMcInerney/LANs.py
 MITMf;mitm ++;https://github.com/byt3bl33d3r/MITMf  
 Lans;mitm;https://github.com/DanMcInerney/LANs.py  
 
+## WMI
+
+wmie;explorer;https://wmie.codeplex.com/  
+
 ## distrib
 
 backbox;ISO;https://backbox.org  
