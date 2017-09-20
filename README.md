@@ -112,6 +112,11 @@ snort;ids;https://www.snort.org/downloads
 suricata;ids;https://suricata-ids.org/download/  
 bro;ids;https://www.bro.org/download/index.html  
 
+## typo squatting ; domain name permutation
+urlcrazy;dns typo squatting;https://tools.kali.org/information-gathering/urlcrazy  
+dnstwist;dns typo squatting;https://github.com/elceef/dnstwist    
+
+
 ## FW
 fireaway;ngfw pypass;https://github.com/tcstool/fireaway  
 
