@@ -304,3 +304,4 @@ php rop gadget;php;https://www.ambionics.io/blog/php-generic-gadget-chains
 saucs;alerte CVE;https://www.saucs.com/  
 wireguard;vpn;https://www.wireguard.com/  
 atom;text editor;https://atom.io/docs  
+pbscan;mass port scanner;https://github.com/gvb84/pbscan  
