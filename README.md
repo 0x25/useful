@@ -85,6 +85,8 @@ LLMNR;powershell;https://github.com/nbs-system/php-malware-finder
 mimipenguin;linux;https://github.com/huntergregal/mimipenguin  
 getsploit;getsploit;https://github.com/vulnersCom/getsploit  
 winpayloads;win payloads;https://github.com/nccgroup/winpayloads  
+CrackMapExec;network scan/AD;https://github.com/byt3bl33d3r/CrackMapExec  
+
 
 ## Audit
 
@@ -201,6 +203,7 @@ tinyshell;php;https://github.com/lawrenceamer/tinyshell
 weevely;backdoor php;http://tools.kali.org/maintaining-access/weevely  
 php-reverse-shell;php reverse;http://pentestmonkey.net/tools/web-shells/php-reverse-shell  
 pupy;rat;https://github.com/n1nj4sec/pupy  
+ThunderShell;PS;https://github.com/Mr-Un1k0d3r/ThunderShell  
 
 ## fishing
 
@@ -305,3 +308,4 @@ saucs;alerte CVE;https://www.saucs.com/
 wireguard;vpn;https://www.wireguard.com/  
 atom;text editor;https://atom.io/docs  
 pbscan;mass port scanner;https://github.com/gvb84/pbscan  
+Ironsquirrel;Encrypted exploit delivery for browser;https://github.com/MRGEffitas/Ironsquirrel  
