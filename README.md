@@ -309,3 +309,4 @@ wireguard;vpn;https://www.wireguard.com/
 atom;text editor;https://atom.io/docs  
 pbscan;mass port scanner;https://github.com/gvb84/pbscan  
 Ironsquirrel;Encrypted exploit delivery for browser;https://github.com/MRGEffitas/Ironsquirrel  
+asciinema;linux cli recorder;https://asciinema.org/  
