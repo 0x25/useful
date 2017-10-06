@@ -96,7 +96,7 @@ scan-build;c;http://clang-analyzer.llvm.org/scan-build.html
 debsecan;debian;http://www.enyo.de/fw/software/debsecan/  
 lunar;linux;https://github.com/lateralblast/lunar  
 dockerscan;linux;https://github.com/cr0hn/dockerscan  
-
+pingcastle;AD;https://www.pingcastle.com/  
 
 ## crack/brute force
 
