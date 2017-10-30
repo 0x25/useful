@@ -106,7 +106,7 @@ Durvasav-BfPC;hash;https://github.com/vishnumaiea/Durvasav-BfPC
 
 ## malware
 luckystrike;xlsx;https://github.com/Shellntel/luckystrike  
-dasmalwerk;malware dl;http://dasmalwerk.eu/  
+dasmalwerk;malware dl;http://dasmalwerk.eu/   
 malware-traffic-analysis;db and analys;http://www.malware-traffic-analysis.net  
 
 ## IDS/IPS
@@ -132,7 +132,7 @@ peda;gdb;https://github.com/longld/peda
 ida;windows/linux;https://www.hex-rays.com/products/ida/support/download.shtml  
 radar;windows/linux;http://radare.org/r/down.html  
 objdump;linux;  
-ollydbg;windows;http://www.ollydbg.de/ 
+ollydbg;windows;http://www.ollydbg.de/  
 binwalk;firmware;http://binwalk.org/  
 peid;windows;https://www.aldeid.com/wiki/PEiD  
 dnSpy;.NET;https://github.com/0xd4d/dnSpy  
@@ -206,6 +206,7 @@ weevely;backdoor php;http://tools.kali.org/maintaining-access/weevely
 php-reverse-shell;php reverse;http://pentestmonkey.net/tools/web-shells/php-reverse-shell  
 pupy;rat;https://github.com/n1nj4sec/pupy  
 ThunderShell;PS;https://github.com/Mr-Un1k0d3r/ThunderShell  
+php-web-shell;webshell php list;https://github.com/JohnTroony/php-webshells  
 
 ## fishing
 
