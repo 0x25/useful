@@ -105,8 +105,8 @@ john;hash;http://www.openwall.com/john/
 Durvasav-BfPC;hash;https://github.com/vishnumaiea/Durvasav-BfPC  
 
 ## malware
-luckystrike;xlsx;https://github.com/Shellntel/luckystrike  
-dasmalwerk;malware dl;http://dasmalwerk.eu/   
+luckystrike;xlsx;https://github.com/Shellntel/luckystrike   
+dasmalwerk;malware dl;http://dasmalwerk.eu/  
 malware-traffic-analysis;db and analys;http://www.malware-traffic-analysis.net  
 
 ## IDS/IPS
@@ -157,6 +157,7 @@ dnscat2;tunnel;https://github.com/iagox86/dnscat2
 petabi;pcap generator;http://petabi.com/  
 netsniff-ng;network;https://github.com/netsniff-ng/netsniff-ng  
 Pcapviz;graff pcap;https://github.com/mateuszk87/PcapViz  
+iftop;linux stat;iftop  
 
 ## search engine
 shodan;searchEngine;https://www.shodan.io  
