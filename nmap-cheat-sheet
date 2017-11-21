@@ -139,5 +139,9 @@ The information gathered during the enumeration indicates the target is vulnerab
 https://github.com/scipag/vulscan  
 
 
+extract commun port
+
+nmap --top-ports 1000 -v -oG -
+
 
 
