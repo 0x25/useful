@@ -143,5 +143,6 @@ extract commun port
 
 nmap --top-ports 1000 -v -oG -
 
-
+MS17-010
+nmap -p445 --script smb-vuln-ms17-010 <target>
 
