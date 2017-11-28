@@ -319,3 +319,4 @@ Ironsquirrel;Encrypted exploit delivery for browser;https://github.com/MRGEffita
 asciinema;linux cli recorder;https://asciinema.org/  
 ufw;linux iptables;https://linuxconfig.org/how-to-install-and-use-ufw-firewall-on-linux  
 phantom;orchestration;https://www.phantom.us/  
+goaccess;reporting web;https://goaccess.io/  
