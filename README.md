@@ -320,3 +320,5 @@ asciinema;linux cli recorder;https://asciinema.org/
 ufw;linux iptables;https://linuxconfig.org/how-to-install-and-use-ufw-firewall-on-linux  
 phantom;orchestration;https://www.phantom.us/  
 goaccess;reporting web;https://goaccess.io/  
+pwning win;win;https://crowdshield.com/blog.php?name=pwning-windows-domains-from-the-command-line  
+
