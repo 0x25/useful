@@ -97,6 +97,7 @@ debsecan;debian;http://www.enyo.de/fw/software/debsecan/
 lunar;linux;https://github.com/lateralblast/lunar  
 dockerscan;linux;https://github.com/cr0hn/dockerscan  
 pingcastle;AD;https://www.pingcastle.com/  
+ADRecon;AD;https://github.com/sense-of-security/ADRecon  
 
 ## crack/brute force
 
