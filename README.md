@@ -6,6 +6,7 @@
                                    \/     \/                                   
                                    
   open an issue if a link is dead, thanks  
+  if you like my share you can give me some XMR { 4Ahnr36hZQsJ3P6jowXvs7cLkSVbkq2KyfQBVURYVftcj9tDoA592wT1jskroZEk2QDEZFPYMLqVvJWZHecFwQ9nL15SzRG }
 
 ## Detection
 
