@@ -1,0 +1,5 @@
+
+
+grep login/password on the network
+ngrep '[&\s?](?:login|user(?:name|)|p(ass(?:word|wd|)|w|wd))[\s:=]\s?([^&\s]*)'  -q -i
+
