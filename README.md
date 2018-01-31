@@ -45,6 +45,7 @@ SIPvicious;SIP;https://github.com/EnableSecurity/sipvicious
 
 ## vulnerabilities research
 nmap;port scanner;https://nmap.org/  
+ngrep;passive scan;https://linux.die.net/man/8/ngrep  
 burp;web;http://portswigger.net/  
 Burp-Non-HTTP-Extension;web burp extension;https://github.com/summitt/Burp-Non-HTTP-Extension  
 zap;web;https://github.com/zaproxy/zaproxy/wiki/Downloads  
