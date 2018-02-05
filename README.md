@@ -250,6 +250,7 @@ webservice;*;http://www.ws-attacks.org/Welcome_to_WS-Attacks
 ## windows
 regshot;regedit snapshot;https://sourceforge.net/projects/regshot/  
 luckystrike;xls word;https://www.shellntel.com/blog/2016/9/13/luckystrike-a-database-backed-evil-macro-generator  
+privilege;win;http://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation-Guide/  
 
 ## database leek
 databases;db;https://www.databases.today/search.php  
