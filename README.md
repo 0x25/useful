@@ -266,6 +266,9 @@ P4wnP1;windows;https://github.com/mame82/P4wnP1
 # rootkit
 Reptile; linux;https://github.com/f0rb1dd3n/Reptile  
 
+# redteam  
+demiguise;hta file download browser;https://github.com/nccgroup/demiguise  
+
 ## other
 
 mailgun;mail;http://www.mailgun.com/  
