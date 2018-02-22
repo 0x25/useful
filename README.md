@@ -336,3 +336,5 @@ pwning win;win;https://crowdshield.com/blog.php?name=pwning-windows-domains-from
 automate action;android;http://llamalab.com/automate/  
 gephi;graphviz tool;https://gephi.org/  
 macro;vba;https://homputersecurity.com/2017/12/21/comment-pirater-un-systeme-windows-laide-dun-fichier-macro/  
+git clone;wget;https://blog.netspi.com/dumping-git-data-from-misconfigured-web-servers/  
+
