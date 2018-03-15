@@ -28,6 +28,7 @@ wafw00f;web;https://github.com/EnableSecurity/wafw00f
 skipfish;web;https://code.google.com/archive/p/skipfish/  
 lastaudit;windows;https://lastaudit.wordpress.com/download/  
 subbrute;dns;https://github.com/TheRook/subbrute  
+ctfr;dns;https://github.com/UnaPibaGeek/ctfr  
 BTA;active directory;https://bitbucket.org/iwseclabs/bta  
 wafw00f;waf;https://github.com/EnableSecurity/wafw00f  
 portquiz;network;http://portquiz.net/  
