@@ -101,6 +101,7 @@ lunar;linux;https://github.com/lateralblast/lunar
 dockerscan;linux;https://github.com/cr0hn/dockerscan  
 pingcastle;AD;https://www.pingcastle.com/  
 ADRecon;AD;https://github.com/sense-of-security/ADRecon  
+jomscan;jomla;https://github.com/rezasp/joomscan  
 
 ## crack/brute force
 
