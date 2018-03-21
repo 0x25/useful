@@ -90,7 +90,7 @@ mimipenguin;linux;https://github.com/huntergregal/mimipenguin
 getsploit;getsploit;https://github.com/vulnersCom/getsploit  
 winpayloads;win payloads;https://github.com/nccgroup/winpayloads  
 CrackMapExec;network scan/AD;https://github.com/byt3bl33d3r/CrackMapExec  
-
+mitm6;mitm ipv6 wpad;https://github.com/fox-it/mitm6  
 
 ## Audit
 
