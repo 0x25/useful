@@ -6,6 +6,10 @@ import json
 # informations
 # https://cloud.tenable.com/api
 
+#----------------------------------------------------------
+# DON T WORK ANY MORE TEENABLE AS CLOSE A PART OF IS API ...
+#----------------------------------------------------------
+
 # disable ssl warning (bad) / see sslVerify parameter
 import urllib3
 urllib3.disable_warnings()
