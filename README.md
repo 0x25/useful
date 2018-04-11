@@ -96,6 +96,7 @@ mitm6;mitm ipv6 wpad;https://github.com/fox-it/mitm6
 
 nipper;fw;https://www.titania.com/products/nipper-studio  
 lynis;linux;https://cisofy.com/lynis/  
+Nix auditor;redhat;https://github.com/XalfiE/Nix-Auditor  
 scan-build;c;http://clang-analyzer.llvm.org/scan-build.html  
 debsecan;debian;http://www.enyo.de/fw/software/debsecan/  
 lunar;linux;https://github.com/lateralblast/lunar  
