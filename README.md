@@ -107,6 +107,7 @@ jomscan;jomla;https://github.com/rezasp/joomscan
 
 ## Audit code
 sonarqube;;https://www.sonarqube.org/  
+exakat;php;https://www.exakat.io/  
 
 ## crack/brute force
 
