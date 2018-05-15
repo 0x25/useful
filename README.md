@@ -349,3 +349,4 @@ gephi;graphviz tool;https://gephi.org/
 macro;vba;https://homputersecurity.com/2017/12/21/comment-pirater-un-systeme-windows-laide-dun-fichier-macro/  
 git clone;wget;https://blog.netspi.com/dumping-git-data-from-misconfigured-web-servers/  
 linux cmd;linux;https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+crt.sh;cert ssl;https://crt.sh  
