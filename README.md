@@ -110,8 +110,10 @@ linEnum;linux;https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh
 sonarqube;;https://www.sonarqube.org/  
 exakat;php;https://www.exakat.io/  
 
-## crack/brute force
+## crypto
+keylength;key size;https://www.keylength.com  
 
+## crack/brute force
 hashcat;hash;http://hashcat.net/hashcat/  
 john;hash;http://www.openwall.com/john/  
 Durvasav-BfPC;hash;https://github.com/vishnumaiea/Durvasav-BfPC  
