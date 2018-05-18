@@ -184,24 +184,19 @@ exploit-db;exploit;https://www.exploit-db.com/
 vulnerabilities,vuln;https://www.seebug.org/  
 
 ## ebooks/zine
-
 International Journal of Proof-of-Concept or Get The Fuck Out;ebook;https://www.alchemistowl.org/pocorgtfo/  
 
 ## stegano
-
 Matroschka;stegano;https://github.com/fgrimme/Matroschka  
 
 ## write pentest
-
 public-pentesting-reports;report;https://github.com/juliocesarfort/public-pentesting-reports  
 
 ## android
-
 apkr;android;https://github.com/zerjioang/apkr  
 genymotion;emulator;https://www.genymotion.com  
 
 ## learning
-
 metasploit-unleashed;free training;https://www.offensive-security.com/metasploit-unleashed  
 bWapp;web vuln;http://www.itsecgames.com/  
 building-your-own-pentesting-environment;lab;http://resources.infosecinstitute.com/building-your-own-pentesting-environment/  
@@ -218,7 +213,6 @@ Awesome-Hacking-Resources;link;https://github.com/vitalysim/Awesome-Hacking-Reso
 xvna;nodejs;https://github.com/vegabird/xvna  
 
 ## backdoor
-
 tinyshell;php;https://github.com/lawrenceamer/tinyshell  
 weevely;backdoor php;http://tools.kali.org/maintaining-access/weevely  
 php-reverse-shell;php reverse;http://pentestmonkey.net/tools/web-shells/php-reverse-shell  
@@ -228,15 +222,13 @@ php-web-shell;webshell php list;https://github.com/JohnTroony/php-webshells
 b374k;php;https://github.com/b374k/b374k  
 
 ## fishing
-
 king-phisher;fishing;https://github.com/securestate/king-phisher/releases  
+gophish;plateforme opensource;https://getgophish.com/  
 
 ## dictionnary
-
 CeWL;genrator on url;https://github.com/digininja/CeWL  
 
 ## wifi
-
 scapy-fakeap;fakeap;https://github.com/rpp0/scapy-fakeap  
 LANs;mitm;https://github.com/DanMcInerney/LANs.py
 MITMf;mitm ++;https://github.com/byt3bl33d3r/MITMf  
@@ -254,7 +246,6 @@ backbox;ISO;https://backbox.org
 Converto;upgrade vps;https://github.com/developerkunal/Converto  
 
 ## Readteam
-
 PlugBot-Plug;;https://github.com/redteamsecurity/PlugBot-Plug  
 exploitpack;exploit kit;https://exploitpack.com  
 
@@ -282,8 +273,11 @@ Reptile; linux;https://github.com/f0rb1dd3n/Reptile
 # redteam  
 demiguise;hta file download browser;https://github.com/nccgroup/demiguise  
 
-## other
+# hardware
+espressobin;3 ethernet;http://espressobin.net    
+raspberry;mini pc;https://www.raspberrypi.org/  
 
+## other
 mailgun;mail;http://www.mailgun.com/  
 anonymous;OS;https://www.whonix.org/  
 owasp test list;pentest;https://www.owasp.org/index.php/Testing_Checklist  
