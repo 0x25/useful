@@ -45,6 +45,7 @@ fuzzdb;liste patern;https://github.com/fuzzdb-project/fuzzdb
 sparta;linux;http://sparta.secforce.com/  
 operative;fingerprinting;https://github.com/graniet/operative-framework  
 SIPvicious;SIP;https://github.com/EnableSecurity/sipvicious  
+sharesniffer;win;https://github.com/shirosaidev/sharesniffer  
 
 ## vulnerabilities research
 nmap;port scanner;https://nmap.org/  
@@ -345,5 +346,5 @@ automate action;android;http://llamalab.com/automate/
 gephi;graphviz tool;https://gephi.org/  
 macro;vba;https://homputersecurity.com/2017/12/21/comment-pirater-un-systeme-windows-laide-dun-fichier-macro/  
 git clone;wget;https://blog.netspi.com/dumping-git-data-from-misconfigured-web-servers/  
-linux cmd;linux;https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+linux cmd;linux;https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/  
 crt.sh;cert ssl;https://crt.sh  
