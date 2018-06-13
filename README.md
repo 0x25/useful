@@ -279,6 +279,9 @@ demiguise;hta file download browser;https://github.com/nccgroup/demiguise
 espressobin;3 ethernet;http://espressobin.net    
 raspberry;mini pc;https://www.raspberrypi.org/  
 
+# IOT
+baudrate;uart/com;https://github.com/devttys0/baudrate  
+
 ## other
 mailgun;mail;http://www.mailgun.com/  
 anonymous;OS;https://www.whonix.org/  
