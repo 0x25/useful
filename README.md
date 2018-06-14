@@ -282,6 +282,9 @@ raspberry;mini pc;https://www.raspberrypi.org/
 # IOT
 baudrate;uart/com;https://github.com/devttys0/baudrate  
 
+# Docker
+docker-explorer;linux;https://github.com/google/docker-explorer  
+
 ## other
 mailgun;mail;http://www.mailgun.com/  
 anonymous;OS;https://www.whonix.org/  
