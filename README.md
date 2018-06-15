@@ -214,7 +214,7 @@ OSCP-Survival-Guide;oscp;https://github.com/frizb/OSCP-Survival-Guide
 Awesome-Hacking-Resources;link;https://github.com/vitalysim/Awesome-Hacking-Resources  
 xvna;nodejs;https://github.com/vegabird/xvna  
 
-## backdoor
+## backdoor & Hardness
 tinyshell;php;https://github.com/lawrenceamer/tinyshell  
 weevely;backdoor php;http://tools.kali.org/maintaining-access/weevely  
 php-reverse-shell;php reverse;http://pentestmonkey.net/tools/web-shells/php-reverse-shell  
@@ -222,6 +222,7 @@ pupy;rat;https://github.com/n1nj4sec/pupy
 ThunderShell;PS;https://github.com/Mr-Un1k0d3r/ThunderShell  
 php-web-shell;webshell php list;https://github.com/JohnTroony/php-webshells  
 b374k;php;https://github.com/b374k/b374k  
+FFM;python;https://github.com/JusticeRage/FFM  
 
 ## fishing
 king-phisher;fishing;https://github.com/securestate/king-phisher/releases  
