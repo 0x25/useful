@@ -162,6 +162,7 @@ hachoir-subfile;linux;apt-get install python-hachoir-subfile
 testdisk;;http://www.cgsecurity.org/wiki/TestDisk_FR  
 RecuperaBit;reconstruct file;https://github.com/Lazza/RecuperaBit  
 peepdf;pdf;http://eternal-todo.com/tools/peepdf-pdf-analysis-tool  
+bucket;;buckets.grayhatwarfare.com  
 
 ## network
 t50;network;https://sourceforge.net/projects/t50/  
