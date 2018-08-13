@@ -239,6 +239,7 @@ MITMf;mitm ++;https://github.com/byt3bl33d3r/MITMf
 Lans;mitm;https://github.com/DanMcInerney/LANs.py  
 wifi-pumpkins;AP and more;https://github.com/P0cL4bs/WiFi-Pumpkin  
 hostapd;AP;https://doc.ubuntu-fr.org/hostapd  
+eaphammer;EAP fake AP;https://github.com/s0lst1c3/eaphammer  
 
 ## WMI
 
