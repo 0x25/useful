@@ -142,6 +142,7 @@ dnstwist;dns typo squatting;https://github.com/elceef/dnstwist
 fireaway;ngfw pypass;https://github.com/tcstool/fireaway  
 
 ## honeypot
+honeycomb;honeypot;https://github.com/Cymmetria/honeycomb  
 
 ## reverse
 gdb;linux;http://www.gnu.org/software/gdb/download/  
