@@ -46,6 +46,7 @@ sparta;linux;http://sparta.secforce.com/
 operative;fingerprinting;https://github.com/graniet/operative-framework  
 SIPvicious;SIP;https://github.com/EnableSecurity/sipvicious  
 sharesniffer;win;https://github.com/shirosaidev/sharesniffer  
+ADrecon;AD;https://github.com/sense-of-security/ADRecon  
 
 ## vulnerabilities research
 nmap;port scanner;https://nmap.org/  
