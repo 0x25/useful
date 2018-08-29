@@ -94,6 +94,7 @@ winpayloads;win payloads;https://github.com/nccgroup/winpayloads
 CrackMapExec;network scan/AD;https://github.com/byt3bl33d3r/CrackMapExec  
 mitm6;mitm ipv6 wpad;https://github.com/fox-it/mitm6  
 GyoiThon;web msf;https://github.com/gyoisamurai/GyoiThon  
+badKarma;gui;https://github.com/r3vn/badKarma  
 
 ## Audit
 nipper;fw;https://www.titania.com/products/nipper-studio  
