@@ -121,6 +121,7 @@ hashcat;hash;http://hashcat.net/hashcat/
 john;hash;http://www.openwall.com/john/  
 Durvasav-BfPC;hash;https://github.com/vishnumaiea/Durvasav-BfPC  
 princeprocessor;algo;https://github.com/hashcat/princeprocessor  
+hashview;hashcat distribued gui;http://www.hashview.io/  
 
 ## malware
 luckystrike;xlsx;https://github.com/Shellntel/luckystrike   
