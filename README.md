@@ -53,7 +53,6 @@ ngrep;passive scan;https://linux.die.net/man/8/ngrep
 burp;web;http://portswigger.net/  
 Burp-Non-HTTP-Extension;web burp extension;https://github.com/summitt/Burp-Non-HTTP-Extension  
 zap;web;https://github.com/zaproxy/zaproxy/wiki/Downloads  
-sqlmap;sqli;http://sqlmap.org/  
 jsql-injection;sqli;https://github.com/ron190/jsql-injection  
 havij,sqli;http://itsecteam.com/  
 nessus;server;http://www.tenable.com/products/nessus/select-your-operating-system  
@@ -95,6 +94,10 @@ CrackMapExec;network scan/AD;https://github.com/byt3bl33d3r/CrackMapExec
 mitm6;mitm ipv6 wpad;https://github.com/fox-it/mitm6  
 GyoiThon;web msf;https://github.com/gyoisamurai/GyoiThon  
 badKarma;gui;https://github.com/r3vn/badKarma  
+
+## SQLi
+mssql-cli;mssql client cmd;https://docs.microsoft.com/fr-fr/sql/tools/mssql-cli?view=sql-server-2017  
+sqlmap;sqli;http://sqlmap.org/  
 
 ## Audit
 nipper;fw;https://www.titania.com/products/nipper-studio  
