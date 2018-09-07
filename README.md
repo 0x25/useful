@@ -206,6 +206,7 @@ public-pentesting-reports;report;https://github.com/juliocesarfort/public-pentes
 apkr;android;https://github.com/zerjioang/apkr  
 genymotion;emulator;https://www.genymotion.com  
 MobSF;apk analyse;https://github.com/MobSF/Mobile-Security-Framework-MobSF  
+Cheatsheet;guide,help;https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet  
 
 ## learning
 metasploit-unleashed;free training;https://www.offensive-security.com/metasploit-unleashed  
