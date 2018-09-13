@@ -160,6 +160,7 @@ binwalk;firmware;http://binwalk.org/
 peid;windows;https://www.aldeid.com/wiki/PEiD  
 dnSpy;.NET;https://github.com/0xd4d/dnSpy  
 veles;binary;https://codisec.com/veles/  
+scdbg;shellcode analysis;http://sandsprite.com/blogs/index.php?uid=7&pid=152  
 
 ## search file/forensic
 foremost;linux;  
