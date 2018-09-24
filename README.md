@@ -202,6 +202,7 @@ Matroschka;stegano;https://github.com/fgrimme/Matroschka
 
 ## write pentest
 public-pentesting-reports;report;https://github.com/juliocesarfort/public-pentesting-reports  
+cure53;publication;https://cure53.de/#publications  
 
 ## android
 apkr;android;https://github.com/zerjioang/apkr  
