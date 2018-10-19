@@ -376,3 +376,4 @@ git clone;wget;https://blog.netspi.com/dumping-git-data-from-misconfigured-web-s
 linux cmd;linux;https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/  
 crt.sh;cert ssl;https://crt.sh  
 bashbosster;provisonning;http://www.bashbooster.net/  
+gopacket;go packet manipulation;https://github.com/google/gopacket  
