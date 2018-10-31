@@ -377,3 +377,4 @@ linux cmd;linux;https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalatio
 crt.sh;cert ssl;https://crt.sh  
 bashbosster;provisonning;http://www.bashbooster.net/  
 gopacket;go packet manipulation;https://github.com/google/gopacket  
+up;interractive grep;https://github.com/akavel/up  
