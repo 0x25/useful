@@ -141,6 +141,8 @@ bro;ids;https://www.bro.org/download/index.html
 urlcrazy;dns typo squatting;https://tools.kali.org/information-gathering/urlcrazy  
 dnstwist;dns typo squatting;https://github.com/elceef/dnstwist    
 
+## Printer
+cred;ldap;https://www.ceos3c.com/hacking/obtaining-domain-credentials-printer-netcat/  
 
 ## FW
 fireaway;ngfw pypass;https://github.com/tcstool/fireaway  
@@ -265,6 +267,7 @@ Converto;upgrade vps;https://github.com/developerkunal/Converto
 ## Readteam
 PlugBot-Plug;;https://github.com/redteamsecurity/PlugBot-Plug  
 exploitpack;exploit kit;https://exploitpack.com  
+responder;nohash;https://threat.tevora.com/quick-tip-skip-cracking-responder-hashes-and-replay-them/  
 
 ## webservice
 webservice;*;http://www.ws-attacks.org/Welcome_to_WS-Attacks  
