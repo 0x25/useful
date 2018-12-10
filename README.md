@@ -310,6 +310,9 @@ Huntpad;improved pad;http://www.syhunt.com/en/index.php?n=Products.SyhuntHuntpad
 # CTF
 CTFd;web interface;https://github.com/CTFd/CTFd  
 
+# typosquatting
+typofinder;;https://github.com/nccgroup/typofinder  
+
 ## other
 mailgun;mail;http://www.mailgun.com/  
 anonymous;OS;https://www.whonix.org/  
