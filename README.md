@@ -189,6 +189,7 @@ netsniff-ng;network;https://github.com/netsniff-ng/netsniff-ng
 Pcapviz;graff pcap;https://github.com/mateuszk87/PcapViz  
 iftop;linux stat;iftop  
 dns2tcp;tunnel;https://tools.kali.org/maintaining-access/dns2tcp  
+serveo;publish local service to dns;https://serveo.net/  
 
 ## search engine
 shodan;searchEngine;https://www.shodan.io  
