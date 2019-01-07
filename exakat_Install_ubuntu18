@@ -1,0 +1,23 @@
+apt update
+apt -y install apt-transport-https lsb-release ca-certificates
+apt -y install php7.2 php7.2-common php7.2-cli php7.2-curl php7.2-json php7.2-mbstring php7.2-sqlite3
+
+add-apt-repository ppa:webupd8team/java
+apt-get update
+apt-get -y install oracle-java8-set-default
+
+apt-get update && apt-get -y install curl wget git lsof unzip
+
+mkdir /opt/exakat
+cd /opt/exakat
+wget -O exakat.phar http://dist.exakat.io/index.php?file=latest
+wget -O apache-tinkerpop-gremlin-server-3.3.4-bin.zip http://dist.exakat.io/apache-tinkerpop-gremlin-server-3.3.4-bin.zip
+unzip apache-tinkerpop-gremlin-server-3.3.4-bin.zip
+mv apache-tinkerpop-gremlin-server-3.3.4 tinkergraph
+rm apache-tinkerpop-gremlin-server-3.3.4-bin.zip
+
+cd tinkergraph
+./bin/gremlin-server.sh -i org.apache.tinkerpop neo4j-gremlin 3.3.4
+cd ..
+
+php exakat.phar doctor | more
