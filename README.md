@@ -96,6 +96,9 @@ mitm6;mitm ipv6 wpad;https://github.com/fox-it/mitm6
 GyoiThon;web msf;https://github.com/gyoisamurai/GyoiThon  
 badKarma;gui;https://github.com/r3vn/badKarma  
 
+## pivot
+ssf;X plateforme;https://securesocketfunneling.github.io/ssf/  
+
 ## SQLi
 mssql-cli;mssql client cmd;https://docs.microsoft.com/fr-fr/sql/tools/mssql-cli?view=sql-server-2017  
 sqlmap;sqli;http://sqlmap.org/  
