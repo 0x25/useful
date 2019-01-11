@@ -394,3 +394,4 @@ gopacket;go packet manipulation;https://github.com/google/gopacket
 up;interractive grep;https://github.com/akavel/up  
 payload;burp;https://github.com/1N3/IntruderPayloads  
 owasp-modsecurity-crs;mod security rules;https://github.com/SpiderLabs/owasp-modsecurity-crs  
+inspec.io;hardening;https://www.inspec.io/  
