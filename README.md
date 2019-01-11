@@ -96,6 +96,9 @@ mitm6;mitm ipv6 wpad;https://github.com/fox-it/mitm6
 GyoiThon;web msf;https://github.com/gyoisamurai/GyoiThon  
 badKarma;gui;https://github.com/r3vn/badKarma  
 
+## exploit
+jexboss;jboss;https://github.com/joaomatosf/jexboss  
+
 ## pivot
 ssf;X plateforme;https://securesocketfunneling.github.io/ssf/  
 
