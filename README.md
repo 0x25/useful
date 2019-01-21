@@ -288,6 +288,7 @@ privilege;win;http://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation
 ## database leek
 databases;db;https://www.databases.today/search.php  
 weakpass;password;http://weakpass.com/  
+hashes;hash:pass;https://hashes.org/leaks.php  
 
 ## canary  
 canary;token;https://canarytokens.org  
