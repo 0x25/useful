@@ -237,6 +237,7 @@ OSCP-Survival-Guide;oscp;https://github.com/frizb/OSCP-Survival-Guide
 Awesome-Hacking-Resources;link;https://github.com/vitalysim/Awesome-Hacking-Resources  
 xvna;nodejs;https://github.com/vegabird/xvna  
 oscp-like;vm;https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms  
+virtualhackinglabs;vm not free;www.virtualhackinglabs.com  
 
 ## backdoor & Hardness
 tinyshell;php;https://github.com/lawrenceamer/tinyshell  
