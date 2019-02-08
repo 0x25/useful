@@ -157,6 +157,7 @@ fireaway;ngfw pypass;https://github.com/tcstool/fireaway
 honeycomb;honeypot;https://github.com/Cymmetria/honeycomb  
 
 ## reverse
+gdbEnhanced;linux;https://gef.readthedocs.io/en/master/  
 gdb;linux;http://www.gnu.org/software/gdb/download/  
 gdb.init;linux;https://gist.github.com/CocoaBeans/1879270  
 gdb UI;linux;https://github.com/cs01/gdbgui/  
