@@ -250,9 +250,10 @@ php-web-shell;webshell php list;https://github.com/JohnTroony/php-webshells
 b374k;php;https://github.com/b374k/b374k  
 FFM;python;https://github.com/JusticeRage/FFM  
 
-## fishing
+## phishing
 king-phisher;fishing;https://github.com/securestate/king-phisher/releases  
 gophish;plateforme opensource;https://getgophish.com/  
+SocialFish;python;https://github.com/UndeadSec/SocialFish  
 
 ## dictionnary
 CeWL;genrator on url;https://github.com/digininja/CeWL  
