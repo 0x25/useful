@@ -99,6 +99,9 @@ badKarma;gui;https://github.com/r3vn/badKarma
 ## exploit
 jexboss;jboss;https://github.com/joaomatosf/jexboss  
 
+## Obfuscation
+pyobfuscator;python;https://github.com/nlog2n/pyobfuscator  
+
 ## pivot
 ssf;X plateforme;https://securesocketfunneling.github.io/ssf/  
 
