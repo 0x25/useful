@@ -403,3 +403,4 @@ payload;burp;https://github.com/1N3/IntruderPayloads
 owasp-modsecurity-crs;mod security rules;https://github.com/SpiderLabs/owasp-modsecurity-crs  
 inspec.io;hardening;https://www.inspec.io/  
 Osquery;file integrity monitoring;https://www.howtoforge.com/tutorial/how-to-setup-file-integrity-monitoring-fim-using-osquery-on-linux-server/  
+GPU;cloud;https://vast.ai/console/create/  
