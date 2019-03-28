@@ -327,6 +327,9 @@ CTFd;web interface;https://github.com/CTFd/CTFd
 # typosquatting
 typofinder;;https://github.com/nccgroup/typofinder  
 
+# TOR
+multitor;linux;https://github.com/trimstray/multitor  
+
 ## other
 mailgun;mail;http://www.mailgun.com/  
 anonymous;OS;https://www.whonix.org/  
