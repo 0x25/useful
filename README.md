@@ -330,6 +330,11 @@ typofinder;;https://github.com/nccgroup/typofinder
 # TOR
 multitor;linux;https://github.com/trimstray/multitor  
 
+#podcast fr
+nolimitsecu;;https://www.nolimitsecu.fr/  
+comptoirsecu;;https://www.comptoirsecu.fr/podcast/  
+
+
 ## other
 mailgun;mail;http://www.mailgun.com/  
 anonymous;OS;https://www.whonix.org/  
