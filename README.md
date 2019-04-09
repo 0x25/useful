@@ -99,6 +99,9 @@ badKarma;gui;https://github.com/r3vn/badKarma
 ## exploit
 jexboss;jboss;https://github.com/joaomatosf/jexboss  
 
+# PowerShell
+MailSniper;PS;https://github.com/dafthack/MailSniper  
+
 ## Obfuscation
 pyobfuscator;python;https://github.com/nlog2n/pyobfuscator  
 
@@ -330,7 +333,7 @@ typofinder;;https://github.com/nccgroup/typofinder
 # TOR
 multitor;linux;https://github.com/trimstray/multitor  
 
-#podcast fr
+# podcast fr
 nolimitsecu;;https://www.nolimitsecu.fr/  
 comptoirsecu;;https://www.comptoirsecu.fr/podcast/  
 
