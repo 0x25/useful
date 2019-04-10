@@ -1,4 +1,4 @@
-description = [[ Screenshot of Web application (based on cutycapt) need -sV to detect service http/https ]]
+description = [[ Screenshot of Web application (based on cutycapt) need -sV to detect service http/https - need apt install libqt5webkit5 on kali 19]]
 
 author = ""
 license = ""
