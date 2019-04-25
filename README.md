@@ -206,8 +206,7 @@ serveo;publish local service to dns;https://serveo.net/
 
 ## search engine
 shodan;searchEngine;https://www.shodan.io  
-censys;searchEngine;https://www.censys.io/  
-zoomeye;searchEngine;https://www.zoomeye.org/  
+censys;searchEngine;https://www.censys.io/   
 exploitsearch;exploit;http://www.exploitsearch.net/  
 exploit-db;exploit;https://www.exploit-db.com/  
 vulnerabilities,vuln;https://www.seebug.org/  
@@ -337,6 +336,8 @@ multitor;linux;https://github.com/trimstray/multitor
 nolimitsecu;;https://www.nolimitsecu.fr/  
 comptoirsecu;;https://www.comptoirsecu.fr/podcast/  
 
+## SNMP
+snmp-check;ruby;http://www.nothink.org/codes/snmpcheck/index.php  
 
 ## other
 mailgun;mail;http://www.mailgun.com/  
