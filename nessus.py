@@ -7,7 +7,7 @@ import json
 # https://cloud.tenable.com/api
 
 #----------------------------------------------------------
-# DON T WORK ANY MORE TEENABLE AS CLOSE A PART OF IS API ...
+# DON T WORK TO START SCAN ANY MORE TEENABLE AS CLOSE A PART OF IS API ...
 #----------------------------------------------------------
 
 # disable ssl warning (bad) / see sslVerify parameter
