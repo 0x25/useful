@@ -1,8 +1,7 @@
 package main
 
-//golang code to crack md5
+//golang code to read file and search with regex
 // with goroutine
-// to do : add hash algo
 
 import (
 	"bufio"
