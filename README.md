@@ -300,6 +300,7 @@ hashes;hash:pass;https://hashes.org/leaks.php
 
 ## canary  
 canary;token;https://canarytokens.org  
+opencanary;https://github.com/thinkst/opencanary  
 
 ## usb  
 P4wnP1;windows;https://github.com/mame82/P4wnP1  
