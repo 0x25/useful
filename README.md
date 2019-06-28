@@ -47,7 +47,6 @@ operative;fingerprinting;https://github.com/graniet/operative-framework
 SIPvicious;SIP;https://github.com/EnableSecurity/sipvicious  
 sharesniffer;win;https://github.com/shirosaidev/sharesniffer  
 reversewhois;whois;https://viewdns.info/reversewhois  
-eavesarp;python arp;https://github.com/arch4ngel/eavesarp  
 
 ## vulnerabilities research
 nmap;port scanner;https://nmap.org/  
@@ -98,6 +97,9 @@ GyoiThon;web msf;https://github.com/gyoisamurai/GyoiThon
 badKarma;gui;https://github.com/r3vn/badKarma  
 PowerLine;https://github.com/fullmetalcache/PowerLine  
 ysoserial;JAVA serialization object;https://github.com/frohoff/ysoserial  
+evil-ssdp;UPNP;https://gitlab.com/initstring/evil-ssdp  
+eavesarp;python arp;https://github.com/arch4ngel/eavesarp  
+
 
 ## exploit
 jexboss;jboss;https://github.com/joaomatosf/jexboss  
