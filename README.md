@@ -103,8 +103,9 @@ eavesarp;python arp;https://github.com/arch4ngel/eavesarp
 
 ## exploit
 jexboss;jboss;https://github.com/joaomatosf/jexboss  
+gtfobins;linux;https://gtfobins.github.io/  
 
-# PowerShell
+## PowerShell
 MailSniper;PS;https://github.com/dafthack/MailSniper  
 
 ## Obfuscation
@@ -282,8 +283,7 @@ audit-radius;radius;https://github.com/ANSSI-FR/audit-radius
 ## WMI
 wmie;explorer;https://wmie.codeplex.com/  
 
-## distrib
-backbox;ISO;https://backbox.org  
+## distrib 
 Converto;upgrade vps;https://github.com/developerkunal/Converto  
 
 ## Readteam
@@ -311,37 +311,38 @@ opencanary;https://github.com/thinkst/opencanary
 ## usb  
 P4wnP1;windows;https://github.com/mame82/P4wnP1  
 
-# rootkit
+## rootkit
 Reptile; linux;https://github.com/f0rb1dd3n/Reptile  
 
-# redteam  
+## redteam  
 demiguise;hta file download browser;https://github.com/nccgroup/demiguise  
 
-# hardware
+## hardware
 espressobin;3 ethernet;http://espressobin.net    
 raspberry;mini pc;https://www.raspberrypi.org/  
 
-# IOT
+## IOT
 baudrate;uart/com;https://github.com/devttys0/baudrate  
 
-# Docker
+## Docker
 docker-explorer;linux;https://github.com/google/docker-explorer  
 
-# pad
+## Pad
 Huntpad;improved pad;http://www.syhunt.com/en/index.php?n=Products.SyhuntHuntpad  
 
-# CTF
+## CTF
 CTFd;web interface;https://github.com/CTFd/CTFd  
 
-# typosquatting
+## Typosquatting
 typofinder;;https://github.com/nccgroup/typofinder  
 
-# TOR
+## TOR
 multitor;linux;https://github.com/trimstray/multitor  
 
-# podcast fr
-nolimitsecu;;https://www.nolimitsecu.fr/  
-comptoirsecu;;https://www.comptoirsecu.fr/podcast/  
+## Podcast fr
+nolimitsecu;fr;https://www.nolimitsecu.fr/  
+comptoirsecu;fr;https://www.comptoirsecu.fr/podcast/  
+blackhillsinfosec;en;https://www.blackhillsinfosec.com/podcasts/  
 
 ## SNMP
 snmp-check;ruby;http://www.nothink.org/codes/snmpcheck/index.php  
