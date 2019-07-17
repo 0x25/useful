@@ -273,13 +273,14 @@ CeWL;genrator on url;https://github.com/digininja/CeWL
 
 ## wifi
 scapy-fakeap;fakeap;https://github.com/rpp0/scapy-fakeap  
-LANs;mitm;https://github.com/DanMcInerney/LANs.py
+LANs;mitm;https://github.com/DanMcInerney/LANs.py  
 MITMf;mitm ++;https://github.com/byt3bl33d3r/MITMf  
 Lans;mitm;https://github.com/DanMcInerney/LANs.py  
 wifi-pumpkins;AP and more;https://github.com/P0cL4bs/WiFi-Pumpkin  
 hostapd;AP;https://doc.ubuntu-fr.org/hostapd  
 eaphammer;EAP fake AP;https://github.com/s0lst1c3/eaphammer  
 audit-radius;radius;https://github.com/ANSSI-FR/audit-radius  
+PMKID attack;out of band;https://hashcat.net/forum/thread-7717.html  
 
 ## WMI
 wmie;explorer;https://wmie.codeplex.com/  
