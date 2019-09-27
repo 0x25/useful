@@ -428,3 +428,4 @@ Osquery;file integrity monitoring;https://www.howtoforge.com/tutorial/how-to-set
 GPU;cloud;https://vast.ai/console/create/  
 DNSDumpster;dns;https://dnsdumpster.com/  
 patrowl;discover;https://www.patrowl.io/  
+vault;password manager;https://www.vaultproject.io/;  
