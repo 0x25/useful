@@ -234,6 +234,7 @@ apkr;android;https://github.com/zerjioang/apkr
 genymotion;emulator;https://www.genymotion.com  
 MobSF;apk analyse;https://github.com/MobSF/Mobile-Security-Framework-MobSF  
 Cheatsheet;guide,help;https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet  
+anbox;linux emulator;https://anbox.io/  
 
 ## learning
 metasploit-unleashed;free training;https://www.offensive-security.com/metasploit-unleashed  
