@@ -47,6 +47,7 @@ operative;fingerprinting;https://github.com/graniet/operative-framework
 SIPvicious;SIP;https://github.com/EnableSecurity/sipvicious  
 sharesniffer;win;https://github.com/shirosaidev/sharesniffer  
 reversewhois;whois;https://viewdns.info/reversewhois  
+securitytrails;dns keyword;https://securitytrails.com/#search  
 
 ## vulnerabilities research
 nmap;port scanner;https://nmap.org/  
@@ -293,6 +294,7 @@ Converto;upgrade vps;https://github.com/developerkunal/Converto
 PlugBot-Plug;;https://github.com/redteamsecurity/PlugBot-Plug  
 exploitpack;exploit kit;https://exploitpack.com  
 responder;nohash;https://threat.tevora.com/quick-tip-skip-cracking-responder-hashes-and-replay-them/  
+demiguise;hta file download browser;https://github.com/nccgroup/demiguise  
 
 ## webservice
 webservice;*;http://www.ws-attacks.org/Welcome_to_WS-Attacks  
@@ -316,9 +318,6 @@ P4wnP1;windows;https://github.com/mame82/P4wnP1
 
 ## rootkit
 Reptile; linux;https://github.com/f0rb1dd3n/Reptile  
-
-## redteam  
-demiguise;hta file download browser;https://github.com/nccgroup/demiguise  
 
 ## hardware
 espressobin;3 ethernet;http://espressobin.net    
