@@ -101,6 +101,7 @@ ysoserial;JAVA serialization object;https://github.com/frohoff/ysoserial
 evil-ssdp;UPNP;https://gitlab.com/initstring/evil-ssdp  
 eavesarp;python arp;https://github.com/arch4ngel/eavesarp  
 AD;documentation;https://github.com/infosecn1nja/AD-Attack-Defense/  
+baboossh;cme for ssh;https://github.com/cybiere/baboossh  
 
 
 ## exploit
