@@ -255,6 +255,7 @@ Awesome-Hacking-Resources;link;https://github.com/vitalysim/Awesome-Hacking-Reso
 xvna;nodejs;https://github.com/vegabird/xvna  
 oscp-like;vm;https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms  
 virtualhackinglabs;vm not free;www.virtualhackinglabs.com  
+hackingarticles;writeup;https://www.hackingarticles.in/  
 
 ## backdoor & Hardness
 tinyshell;php;https://github.com/lawrenceamer/tinyshell  
