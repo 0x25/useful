@@ -223,6 +223,8 @@ vulnerabilities,vuln;https://www.seebug.org/
 
 ## ebooks/zine
 International Journal of Proof-of-Concept or Get The Fuck Out;ebook;https://www.alchemistowl.org/pocorgtfo/  
+xmco;fr;https://www.xmco.fr/actusecu/  
+pageout;en;https://pagedout.institute/  
 
 ## stegano
 Matroschka;stegano;https://github.com/fgrimme/Matroschka  
