@@ -433,3 +433,4 @@ GPU;cloud;https://vast.ai/console/create/
 DNSDumpster;dns;https://dnsdumpster.com/  
 patrowl;discover;https://www.patrowl.io/  
 vault;password manager;https://www.vaultproject.io/;  
+wifi;piZero;https://pwnagotchi.ai/  
