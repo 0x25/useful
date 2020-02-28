@@ -29,8 +29,8 @@ action = function(host, port)
 		target = host.ip
 	end
 
-	local filename = "screenshot-nmap-"..target.."_"..port.number..".png" 
-	local cmd = "cutycapt --insecure --max-wait=4000 --url=" .. prefix .. "://" .. target .. ":" .. port.number .. " --out=" .. filename .. " 2> /dev/null >/dev/null"
+	local filename = "screenshot-nmap-"..target.."_"..prefix.."_"..port.number..".png" 
+ 	local cmd = "cutycapt --insecure --max-wait=4000 --url="..prefix.."://"..target..":"..port.number.." --out="..filename.." --user-style-string='body { background-color: rgb(255,255,255); }' 2> /dev/null >/dev/null"
 
 	stdnse.debug(1, "DEBUG CUTYCAPT >>> %s", cmd)
 	
