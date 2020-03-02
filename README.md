@@ -148,6 +148,7 @@ Durvasav-BfPC;hash;https://github.com/vishnumaiea/Durvasav-BfPC
 princeprocessor;algo;https://github.com/hashcat/princeprocessor  
 hashview;hashcat distribued gui;http://www.hashview.io/  
 mdxfind;multi hash,cpu;https://www.techsolvency.com/pub/bin/mdxfind/  
+bitlocker;linux;https://github.com/e-ago/bitcracker  
 
 ## malware
 luckystrike;xlsx;https://github.com/Shellntel/luckystrike   
