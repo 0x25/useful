@@ -260,6 +260,7 @@ xvna;nodejs;https://github.com/vegabird/xvna
 oscp-like;vm;https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms  
 virtualhackinglabs;vm not free;www.virtualhackinglabs.com  
 hackingarticles;writeup;https://www.hackingarticles.in/  
+try hack me;challenge;https://tryhackme.com/  
 
 ## backdoor & Hardness
 tinyshell;php;https://github.com/lawrenceamer/tinyshell  
@@ -437,3 +438,4 @@ patrowl;discover;https://www.patrowl.io/
 vault;password manager;https://www.vaultproject.io/;  
 wifi;piZero;https://pwnagotchi.ai/  
 total commander;IDE;https://www.ghisler.com/accueil.htm  
+jupyter;python notpad run code;https://jupyter.org/  
