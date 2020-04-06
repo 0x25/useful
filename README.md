@@ -261,6 +261,7 @@ oscp-like;vm;https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms
 virtualhackinglabs;vm not free;www.virtualhackinglabs.com  
 hackingarticles;writeup;https://www.hackingarticles.in/  
 try hack me;challenge;https://tryhackme.com/  
+cryptohack;challenge;https://cryptohack.org/  
 
 ## backdoor & Hardness
 tinyshell;php;https://github.com/lawrenceamer/tinyshell  
