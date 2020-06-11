@@ -137,6 +137,7 @@ linEnum;linux;https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh
 ## Audit code
 sonarqube;;https://www.sonarqube.org/  
 exakat;php;https://www.exakat.io/  
+SCARY;php;https://github.com/ewilded/SCARY  
 
 ## crypto
 keylength;key size;https://www.keylength.com  
