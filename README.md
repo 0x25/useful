@@ -102,6 +102,7 @@ evil-ssdp;UPNP;https://gitlab.com/initstring/evil-ssdp
 eavesarp;python arp;https://github.com/arch4ngel/eavesarp  
 AD;documentation;https://github.com/infosecn1nja/AD-Attack-Defense/  
 baboossh;cme for ssh;https://github.com/cybiere/baboossh  
+Blacklist3r;ASP.NET;https://github.com/NotSoSecure/Blacklist3r/releases/tag/3.0  
 
 
 ## exploit
