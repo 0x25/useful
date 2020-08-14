@@ -34,6 +34,7 @@ BTA;active directory;https://bitbucket.org/iwseclabs/bta
 portquiz;network;http://portquiz.net/  
 massdns;dns;https://github.com/blechschmidt/massdns  
 domained;dns;https://github.com/nilvalues/domained  
+assetfinder;domain;https://github.com/tomnomnom/assetfinder  
 dvcs-pillage;git;https://github.com/evilpacket/DVCS-Pillage  
 dmitry;web;apt-get install dmitry  
 sslyze;ssl;https://github.com/nabla-c0d3/sslyze  
