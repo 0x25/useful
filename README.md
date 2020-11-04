@@ -301,7 +301,7 @@ wmie;explorer;https://wmie.codeplex.com/
 ## distrib 
 Converto;upgrade vps;https://github.com/developerkunal/Converto  
 
-## Readteam
+## Redteam
 PlugBot-Plug;;https://github.com/redteamsecurity/PlugBot-Plug  
 exploitpack;exploit kit;https://exploitpack.com  
 responder;nohash;https://threat.tevora.com/quick-tip-skip-cracking-responder-hashes-and-replay-them/  
