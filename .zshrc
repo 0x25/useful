@@ -1,4 +1,7 @@
+# ~/.zshrc file for zsh interactive shells.
 # see /usr/share/doc/zsh/examples/zshrc for examples
+
+# man zshoptions
 
 setopt autocd              # change directory just by typing its name
 #setopt correct            # auto correct mistakes
@@ -34,17 +37,21 @@ zstyle ':completion:*:*:*:*:*' menu select
 zstyle ':completion:*' matcher-list 'm:{a-zA-Z}={A-Za-z}' # case insensitive tab completion
 
 # History configurations
-HISTFILE=~/.zsh_history
-HISTSIZE=1000
-SAVEHIST=2000
+HISTFILE=~/.history
+HISTSIZE=10000
+SAVEHIST=20000
+
 setopt hist_expire_dups_first # delete duplicates first when HISTFILE size exceeds HISTSIZE
 setopt hist_ignore_dups       # ignore duplicated commands history list
 setopt hist_ignore_space      # ignore commands that start with space
 setopt hist_verify            # show command with history expansion to user before running it
 #setopt share_history         # share command history data
+setopt EXTENDED_HISTORY
+setopt INC_APPEND_HISTORY
+setopt extendedhistory
 
 # force zsh to show the complete history
-alias history="history 0"
+alias history="history -E"
 
 # make less more friendly for non-text input files, see lesspipe(1)
 #[ -x /usr/bin/lesspipe ] && eval "$(SHELL=/bin/sh lesspipe)"
@@ -76,10 +83,13 @@ if [ -n "$force_color_prompt" ]; then
 fi
 
 if [ "$color_prompt" = yes ]; then
-    PROMPT=$'%F{%(#.blue.green)}┌──${debian_chroot:+($debian_chroot)──}(%B%F{%(#.red.blue)}%n%(#.💀.❤)%m%b%F{%(#.blue.green)})-[%B%F{reset}%(6~.%-1~/…/%4~.%5~)%b%F{%(#.blue.green)}]\n└─%B%(#.%F{red}#.%F{blue}$)%b%F{reset} '
+    #PROMPT=$'%F{%(#.blue.green)}┌──${debian_chroot:+($debian_chroot)──}(%B%F{%(#.red.blue)}%n%(#.💀.❤)%m%b%F{%(#.blue.green)})-[%B%F{reset}%(6~.%-1~/…/%4~.%5~)%b%F{%(#.blue.green)}]\n└─%B%(#.%F{red}#.%F{blue}$)%b%F{reset} '
+    PROMPT=$'%F{%(#.blue.green)}┌──${debian_chroot:+($debian_chroot)──}(%B%F{%(#.red.blue)}%n%(#.💀.❤)%m%b%F{%(#.blue.green)})-[%B%F{reset}%(6~.%-1~/…/%4~.%5~)%b%F{%(#.blue.green)}]\n'
+    PROMPT+=$'├─ %D{%y/%m/%f} %D{%T}\n'
+    PROMPT+=$'└─➤ %B%(#.%F{red}#.%F{yellow}$)%b%F{reset} '
 
     #RPROMPT=$'%(?.. %? %F{red}%B⨯%b%F{reset})%(1j. %j %F{yellow}%B⚙%b%F{reset}.)'
-    RPROMPT="%F{%(#.blue.green)}%D{%y/%m/%f} %D{%T}%F{reset}"
+    RPROMPT=$'%F{green}TTY[$(tty|sed "s|^/dev/||;s|/|_|g")] H[%h] IPv4[$(ip a show eth0 | grep inet | head -n 1 | awk -F " " \'{print $2}\')]%F{reset}'
     if [ -z ${TERM##*screen*} ]; then 
         RPROMPT+=" %F{yellow}⌦ SCREEN%F{reset}" 
     else
@@ -190,6 +200,8 @@ fi
 alias ll='ls -lah'
 alias la='ls -A'
 alias l='ls -CF'
+alias nano='nano -c -T 4'
+alias nn='nano -c -T 4'
 
 # enable auto-suggestions based on the history
 if [ -f /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh ]; then
