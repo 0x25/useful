@@ -317,6 +317,7 @@ regshot;regedit snapshot;https://sourceforge.net/projects/regshot/
 luckystrike;xls word;https://www.shellntel.com/blog/2016/9/13/luckystrike-a-database-backed-evil-macro-generator  
 privilege;win;http://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation-Guide/  
 Active-Directory-Exploitation-Cheat-Sheet;;https://github.com/buftas/Active-Directory-Exploitation-Cheat-Sheet  
+obfuscatePS;python;https://github.com/Unknow101/FuckThatPacker  
 
 ## database leek
 databases;db;https://www.databases.today/search.php  
