@@ -356,10 +356,11 @@ typofinder;;https://github.com/nccgroup/typofinder
 ## TOR
 multitor;linux;https://github.com/trimstray/multitor  
 
-## Podcast fr
+## Podcast
 nolimitsecu;fr;https://www.nolimitsecu.fr/  
 comptoirsecu;fr;https://www.comptoirsecu.fr/podcast/  
 blackhillsinfosec;en;https://www.blackhillsinfosec.com/podcasts/  
+darknetdiaries;en;https://darknetdiaries.com/  
 
 ## SNMP
 snmp-check;ruby;http://www.nothink.org/codes/snmpcheck/index.php  
