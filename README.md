@@ -361,6 +361,7 @@ nolimitsecu;fr;https://www.nolimitsecu.fr/
 comptoirsecu;fr;https://www.comptoirsecu.fr/podcast/  
 blackhillsinfosec;en;https://www.blackhillsinfosec.com/podcasts/  
 darknetdiaries;en;https://darknetdiaries.com/  
+no-log;fr;https://shows.acast.com/no-log  
 
 ## SNMP
 snmp-check;ruby;http://www.nothink.org/codes/snmpcheck/index.php  
