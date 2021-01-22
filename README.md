@@ -204,6 +204,7 @@ peepdf;pdf;http://eternal-todo.com/tools/peepdf-pdf-analysis-tool
 bucket;;buckets.grayhatwarfare.com  
 gitminer;git search;https://github.com/UnkL4b/GitMiner  
 DeepBlueCLI;PS;https://github.com/sans-blue-team/DeepBlueCLI  
+dfir;win;https://dfir-orc.github.io/  
 
 ## network
 t50;network;https://sourceforge.net/projects/t50/  
