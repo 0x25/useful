@@ -309,6 +309,7 @@ PlugBot-Plug;;https://github.com/redteamsecurity/PlugBot-Plug
 exploitpack;exploit kit;https://exploitpack.com  
 responder;nohash;https://threat.tevora.com/quick-tip-skip-cracking-responder-hashes-and-replay-them/  
 demiguise;hta file download browser;https://github.com/nccgroup/demiguise  
+ScareCrow;win;https://github.com/optiv/ScareCrow  
 
 ## webservice
 webservice;*;http://www.ws-attacks.org/Welcome_to_WS-Attacks  
