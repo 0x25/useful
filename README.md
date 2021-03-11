@@ -124,7 +124,7 @@ mssql-cli;mssql client cmd;https://docs.microsoft.com/fr-fr/sql/tools/mssql-cli?
 sqlmap;sqli;http://sqlmap.org/  
 
 ## Audit
-nipper;fw;https://www.titania.com/products/nipper-studio  
+nipper;fw;www.titania.com  
 lynis;linux;https://cisofy.com/lynis/  
 Nix auditor;redhat;https://github.com/XalfiE/Nix-Auditor  
 scan-build;c;http://clang-analyzer.llvm.org/scan-build.html  
