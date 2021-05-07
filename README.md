@@ -50,6 +50,11 @@ reversewhois;whois;https://viewdns.info/reversewhois
 securitytrails;dns keyword;https://securitytrails.com/#search  
 Interlace;multi thread linux automation;https://github.com/codingo/Interlace  
 
+## CVE
+cvedetails;;https://www.cvedetails.com/  
+opencve;;https://www.opencve.io/  
+mitre;;https://cve.mitre.org/  
+
 ## vulnerabilities research
 nmap;port scanner;https://nmap.org/  
 ngrep;passive scan;https://linux.die.net/man/8/ngrep  
@@ -422,8 +427,7 @@ postgresql_online_compiler;postgreSQL;http://rextester.com/l/postgresql_online_c
 pumascan;.NET analyser vuln;https://www.pumascan.com/  
 scikit-learn;python machine learning;http://scikit-learn.org  
 cutycapt;cli screenshot linux;http://cutycapt.sourceforge.net/  
-php rop gadget;php;https://www.ambionics.io/blog/php-generic-gadget-chains  
-saucs;alerte CVE;https://www.saucs.com/  
+php rop gadget;php;https://www.ambionics.io/blog/php-generic-gadget-chains    
 wireguard;vpn;https://www.wireguard.com/  
 atom;text editor;https://atom.io/docs  
 pbscan;mass port scanner;https://github.com/gvb84/pbscan  
