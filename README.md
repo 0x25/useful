@@ -148,7 +148,8 @@ exakat;php;https://www.exakat.io/
 SCARY;php;https://github.com/ewilded/SCARY  
 
 ## crypto
-keylength;key size;https://www.keylength.com  
+keylength;;key size;https://www.keylength.com  
+factorize;;http://factordb.com/  
 
 ## crack/brute force
 hashcat;hash;http://hashcat.net/hashcat/  
