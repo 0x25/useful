@@ -109,7 +109,7 @@ eavesarp;python arp;https://github.com/arch4ngel/eavesarp
 AD;documentation;https://github.com/infosecn1nja/AD-Attack-Defense/  
 baboossh;cme for ssh;https://github.com/cybiere/baboossh  
 Blacklist3r;ASP.NET;https://github.com/NotSoSecure/Blacklist3r/releases/tag/3.0  
-
+xinPEAS;windows;https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS  
 
 ## exploit
 jexboss;jboss;https://github.com/joaomatosf/jexboss  
@@ -275,6 +275,7 @@ virtualhackinglabs;vm not free;www.virtualhackinglabs.com
 hackingarticles;writeup;https://www.hackingarticles.in/  
 try hack me;challenge;https://tryhackme.com/  
 cryptohack;challenge;https://cryptohack.org/  
+picoCTF;challenge;https://picoctf.org/  
 
 ## backdoor & Hardness
 tinyshell;php;https://github.com/lawrenceamer/tinyshell  
