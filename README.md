@@ -291,6 +291,7 @@ FFM;python;https://github.com/JusticeRage/FFM
 king-phisher;fishing;https://github.com/securestate/king-phisher/releases  
 gophish;plateforme opensource;https://getgophish.com/  
 SocialFish;python;https://github.com/UndeadSec/SocialFish  
+juda;proxy;https://github.com/JonCooperWorks/judas  
 
 ## dictionnary
 CeWL;genrator on url;https://github.com/digininja/CeWL  
