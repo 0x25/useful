@@ -49,6 +49,7 @@ sharesniffer;win;https://github.com/shirosaidev/sharesniffer
 reversewhois;whois;https://viewdns.info/reversewhois  
 securitytrails;dns keyword;https://securitytrails.com/#search  
 Interlace;multi thread linux automation;https://github.com/codingo/Interlace  
+fuff;web;https://github.com/ffuf/ffuf  
 
 ## CVE
 cvedetails;;https://www.cvedetails.com/  
