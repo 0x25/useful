@@ -111,6 +111,7 @@ AD;documentation;https://github.com/infosecn1nja/AD-Attack-Defense/
 baboossh;cme for ssh;https://github.com/cybiere/baboossh  
 Blacklist3r;ASP.NET;https://github.com/NotSoSecure/Blacklist3r/releases/tag/3.0  
 xinPEAS;windows;https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS  
+fakedns;dns;https://github.com/Crypt0s/FakeDns  
 
 ## exploit
 jexboss;jboss;https://github.com/joaomatosf/jexboss  
