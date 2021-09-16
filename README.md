@@ -358,6 +358,7 @@ baudrate;uart/com;https://github.com/devttys0/baudrate
 
 ## Docker
 docker-explorer;linux;https://github.com/google/docker-explorer  
+deepce;docker;https://github.com/stealthcopter/deepce  
 
 ## Pad
 Huntpad;improved pad;http://www.syhunt.com/en/index.php?n=Products.SyhuntHuntpad  
