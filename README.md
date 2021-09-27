@@ -113,6 +113,7 @@ baboossh;cme for ssh;https://github.com/cybiere/baboossh
 Blacklist3r;ASP.NET;https://github.com/NotSoSecure/Blacklist3r/releases/tag/3.0  
 xinPEAS;windows;https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS  
 fakedns;dns;https://github.com/Crypt0s/FakeDns  
+evil-winrm;win;https://github.com/Hackplayers/evil-winrm  
 
 ## exploit
 jexboss;jboss;https://github.com/joaomatosf/jexboss  
