@@ -310,6 +310,7 @@ hostapd;AP;https://doc.ubuntu-fr.org/hostapd
 eaphammer;EAP fake AP;https://github.com/s0lst1c3/eaphammer  
 audit-radius;radius;https://github.com/ANSSI-FR/audit-radius  
 PMKID attack;out of band;https://hashcat.net/forum/thread-7717.html  
+wifite2;automation;https://github.com/derv82/wifite2  
 
 ## WMI
 wmie;explorer;https://wmie.codeplex.com/  
