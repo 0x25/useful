@@ -145,6 +145,7 @@ ADRecon;AD;https://github.com/sense-of-security/ADRecon
 jomscan;jomla;https://github.com/rezasp/joomscan  
 linEnum;linux;https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh  
 PEAS;lin/win;https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite  
+HardeningKitty;win;https://github.com/scipag/HardeningKitty  
 
 ## Audit code
 sonarqube;;https://www.sonarqube.org/  
