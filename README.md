@@ -386,6 +386,9 @@ CYBER;en;https://open.spotify.com/show/3smcGJaAF6F7sioqFDQjzn?si=d145034375e647e
 ## SNMP
 snmp-check;ruby;http://www.nothink.org/codes/snmpcheck/index.php  
 
+## lesson
+lesson;en;https://www.thehacker.recipes/  
+
 ## other
 mailgun;mail;http://www.mailgun.com/  
 anonymous;OS;https://www.whonix.org/  
