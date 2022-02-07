@@ -335,7 +335,8 @@ luckystrike;xls word;https://www.shellntel.com/blog/2016/9/13/luckystrike-a-data
 privilege;win;http://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation-Guide/  
 Active-Directory-Exploitation-Cheat-Sheet;;https://github.com/buftas/Active-Directory-Exploitation-Cheat-Sheet  
 obfuscatePS;python;https://github.com/Unknow101/FuckThatPacker
-AD cheat sheet;;https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/
+AD cheat sheet;;https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/  
+lolbin;win;https://lolbas-project.github.io/  
 
 ## database leek
 databases;db;https://www.databases.today/search.php  
