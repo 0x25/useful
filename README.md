@@ -281,6 +281,9 @@ hackingarticles;writeup;https://www.hackingarticles.in/
 try hack me;challenge;https://tryhackme.com/  
 cryptohack;challenge;https://cryptohack.org/  
 picoCTF;challenge;https://picoctf.org/  
+ctf-katana;cli;https://github.com/JohnHammond/ctf-katana  
+hacktricks;cli;https://book.hacktricks.xyz/  
+
 
 ## backdoor & Hardness
 tinyshell;php;https://github.com/lawrenceamer/tinyshell  
