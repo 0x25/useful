@@ -51,6 +51,7 @@ reversewhois;whois;https://viewdns.info/reversewhois
 securitytrails;dns keyword;https://securitytrails.com/#search  
 Interlace;multi thread linux automation;https://github.com/codingo/Interlace  
 fuff;web;https://github.com/ffuf/ffuf  
+amass;OWASP info gathering;https://github.com/OWASP/Amass
 
 ## CVE
 cvedetails;;https://www.cvedetails.com/  
