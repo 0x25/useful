@@ -394,6 +394,10 @@ snmp-check;ruby;http://www.nothink.org/codes/snmpcheck/index.php
 ## lesson
 lesson;en;https://www.thehacker.recipes/  
 
+## RF  
+radio;ISO;https://www.sigintos.com/  
+
+
 ## other
 mailgun;mail;http://www.mailgun.com/  
 anonymous;OS;https://www.whonix.org/  
