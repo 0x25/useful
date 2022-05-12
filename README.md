@@ -119,6 +119,7 @@ evil-winrm;win;https://github.com/Hackplayers/evil-winrm
 ## exploit
 jexboss;jboss;https://github.com/joaomatosf/jexboss  
 gtfobins;linux;https://gtfobins.github.io/  
+wadcoms;;https://wadcoms.github.io/#+No%20Creds  
 
 ## PowerShell
 MailSniper;PS;https://github.com/dafthack/MailSniper  
