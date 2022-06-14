@@ -486,3 +486,4 @@ easy2boot;boot;https://www.easy2boot.com/
 scantron;;https://github.com/rackerlabs/scantron  
 Portsentry;linux;https://wiki.gentoo.org/wiki/PortSentry  
 ssh+ssl;linux;https://ostechnix.com/sslh-share-port-https-ssh/  
+ssh;;https://github.com/quantumsheep/sshs  
