@@ -342,7 +342,10 @@ privilege;win;http://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation
 Active-Directory-Exploitation-Cheat-Sheet;;https://github.com/buftas/Active-Directory-Exploitation-Cheat-Sheet  
 obfuscatePS;python;https://github.com/Unknow101/FuckThatPacker
 AD cheat sheet;;https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/  
-lolbin;win;https://lolbas-project.github.io/  
+lolbin;win;https://lolbas-project.github.io/ 
+pypykatz;python;https://github.com/skelsec/pypykatz  
+hakatomb;python;https://github.com/Processus-Thief/HEKATOMB  
+
 
 ## database leek
 databases;db;https://www.databases.today/search.php  
