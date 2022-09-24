@@ -297,6 +297,7 @@ ThunderShell;PS;https://github.com/Mr-Un1k0d3r/ThunderShell
 php-web-shell;webshell php list;https://github.com/JohnTroony/php-webshells  
 b374k;php;https://github.com/b374k/b374k  
 FFM;python;https://github.com/JusticeRage/FFM  
+revshells;;https://www.revshells.com/  
 
 ## phishing
 king-phisher;fishing;https://github.com/securestate/king-phisher/releases  
