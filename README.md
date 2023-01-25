@@ -395,6 +395,7 @@ blackhillsinfosec;en;https://www.blackhillsinfosec.com/podcasts/
 darknetdiaries;en;https://darknetdiaries.com/  
 no-log;fr;https://shows.acast.com/no-log  
 CYBER;en;https://open.spotify.com/show/3smcGJaAF6F7sioqFDQjzn?si=d145034375e647e9  
+hackandspeak;fr;https://anchor.fm/hacknspeak  
 
 ## SNMP
 snmp-check;ruby;http://www.nothink.org/codes/snmpcheck/index.php  
