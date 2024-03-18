@@ -102,6 +102,8 @@ mimipenguin;linux;https://github.com/huntergregal/mimipenguin
 getsploit;getsploit;https://github.com/vulnersCom/getsploit  
 winpayloads;win payloads;https://github.com/nccgroup/winpayloads  
 CrackMapExec;network scan/AD;https://github.com/byt3bl33d3r/CrackMapExec  
+netexec;scan/pwn AD;https://github.com/Pennyw0rth/NetExec  
+PsMapExec,powershell pwn ad;https://github.com/The-Viper-One/PsMapExec  
 mitm6;mitm ipv6 wpad;https://github.com/fox-it/mitm6  
 GyoiThon;web msf;https://github.com/gyoisamurai/GyoiThon  
 badKarma;gui;https://github.com/r3vn/badKarma  
@@ -335,6 +337,7 @@ responder;nohash;https://threat.tevora.com/quick-tip-skip-cracking-responder-has
 demiguise;hta file download browser;https://github.com/nccgroup/demiguise  
 ScareCrow;win;https://github.com/optiv/ScareCrow 
 vilain;;https://github.com/t3l3machus/villain  
+ligolo-ng;dns exfiltration;https://github.com/nicocha30/ligolo-ng  
 
 ## webservice
 webservice;*;http://www.ws-attacks.org/Welcome_to_WS-Attacks  
