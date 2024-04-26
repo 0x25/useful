@@ -323,6 +323,7 @@ eaphammer;EAP fake AP;https://github.com/s0lst1c3/eaphammer
 audit-radius;radius;https://github.com/ANSSI-FR/audit-radius  
 PMKID attack;out of band;https://hashcat.net/forum/thread-7717.html  
 wifite2;automation;https://github.com/derv82/wifite2  
+hostbase;wifi;https://github.com/Koala633/hostbase  
 
 ## WMI
 wmie;explorer;https://wmie.codeplex.com/  
