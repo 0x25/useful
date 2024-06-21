@@ -353,6 +353,8 @@ AD cheat sheet;;https://casvancooten.com/posts/2020/11/windows-active-directory-
 lolbin;win;https://lolbas-project.github.io/ 
 pypykatz;python;https://github.com/skelsec/pypykatz  
 hakatomb;python;https://github.com/Processus-Thief/HEKATOMB  
+ADPeas;psh;https://github.com/61106960/adPEAS  
+MITM DHCPV6;;https://github.com/RedTeamPentesting/pretender  
 
 
 ## database leek
