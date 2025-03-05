@@ -62,6 +62,7 @@ mitre;;https://cve.mitre.org/
 nmap;port scanner;https://nmap.org/  
 ngrep;passive scan;https://linux.die.net/man/8/ngrep  
 burp;web;http://portswigger.net/  
+caido;web;https://caido.io/fr  
 Burp-Non-HTTP-Extension;web burp extension;https://github.com/summitt/Burp-Non-HTTP-Extension  
 zap;web;https://github.com/zaproxy/zaproxy/wiki/Downloads  
 jsql-injection;sqli;https://github.com/ron190/jsql-injection  
