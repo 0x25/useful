@@ -122,6 +122,9 @@ evil-winrm;win;https://github.com/Hackplayers/evil-winrm
 WinPwn;PS;https://github.com/S3cur3Th1sSh1t/WinPwn
 nuclei;web;https://github.com/projectdiscovery/nuclei  
 
+## API
+autosawgger;web;https://github.com/intruder-io/autoswagger  
+
 ## exploit
 jexboss;jboss;https://github.com/joaomatosf/jexboss  
 gtfobins;linux;https://gtfobins.github.io/  
