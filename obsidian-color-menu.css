@@ -1,0 +1,223 @@
+/* ==========================================================================
+   USAGE paste the CSS in VAULT/.obsidian/snippets/color-menu.css
+   Activate in Obsidian Parameters
+   Prefix your menu with 00.x-TITLE to 20.xx-TITLE
+   COLORS (00 to 20)
+   IA Generated 
+   ========================================================================== */
+:root {
+    --00-principal: #cfd8dc; --00-texte-titre: #263238; --00-fond-contenu: #f0f4f5; --00-texte-notes: #546e7a; --00-survol-fond: #e2e8f0; --00-survol-texte: #37474f;
+    --01-principal: #f3b0c3; --01-texte-titre: #4a1e28; --01-fond-contenu: #fff5f7; --01-texte-notes: #a85c6f; --01-survol-fond: #fde2e8; --01-survol-texte: #d1617c;
+    --02-principal: #a8e6cf; --02-texte-titre: #14382c; --02-fond-contenu: #f2fbf8; --02-texte-notes: #468c72; --02-survol-fond: #daf4eb; --02-survol-texte: #245c47;
+    --03-principal: #d6c1e7; --03-texte-titre: #311d43; --03-fond-contenu: #faf7fc; --03-texte-notes: #7a5f95; --03-survol-fond: #f1e9f7; --03-survol-texte: #54396e;
+    --04-principal: #ffb380; --04-texte-titre: #4a2711; --04-fond-contenu: #fff5ed; --04-texte-notes: #bd6a36; --04-survol-fond: #ffe6d5; --04-survol-texte: #ff8c42;
+    --05-principal: #aec6cf; --05-texte-titre: #1f2d3d; --05-fond-contenu: #f4f7f9; --05-texte-notes: #5c768d; --05-survol-fond: #e2eaf0; --05-survol-texte: #3a6073;
+    --06-principal: #f3e19f; --06-texte-titre: #443707; --06-fond-contenu: #fdfbf3; --06-texte-notes: #8a7116; --06-survol-fond: #faf2d3; --06-survol-texte: #63500b;
+    --07-principal: #f5b7b1; --07-texte-titre: #4a1512; --07-fond-contenu: #fdf5f4; --07-texte-notes: #ad4b44; --07-survol-fond: #fbeae8; --07-survol-texte: #8a251e;
+    --08-principal: #b2ebf2; --08-texte-titre: #006064; --08-fond-contenu: #e0f7fa; --08-texte-notes: #0097a7; --08-survol-fond: #b2ebf2; --08-survol-texte: #00838f;
+    --09-principal: #ffccbc; --09-texte-titre: #dd2c00; --09-fond-contenu: #fff3e0; --09-texte-notes: #e64a19; --09-survol-fond: #ffe0b2; --09-survol-texte: #d84315;
+    --10-principal: #e1bee7; --10-texte-titre: #311b92; --10-fond-contenu: #fbf7fc; --10-texte-notes: #7b1fa2; --10-survol-fond: #f3e5f5; --10-survol-texte: #4a148c;
+    --11-principal: #b2d8b2; --11-texte-titre: #1e331e; --11-fond-contenu: #f5faf5; --11-texte-notes: #558255; --11-survol-fond: #e1f0e1; --11-survol-texte: #2d5a2d;
+    --12-principal: #f8bbd0; --12-texte-titre: #880e4f; --12-fond-contenu: #fce4ec; --12-texte-notes: #c2185b; --12-survol-fond: #f8bbd0; --12-survol-texte: #ad1457;
+    --13-principal: #bccee4; --13-texte-titre: #1c2d42; --13-fond-contenu: #f5f8fc; --13-texte-notes: #536b8a; --13-survol-fond: #e6eef7; --13-survol-texte: #324a69;
+    --14-principal: #ffe0b2; --14-texte-titre: #e65100; --14-fond-contenu: #fff3e0; --14-texte-notes: #f57c00; --14-survol-fond: #ffe0b2; --14-survol-texte: #ef6c00;
+    --15-principal: #dcedc8; --15-texte-titre: #33691e; --15-fond-contenu: #f1f8e9; --15-texte-notes: #689f38; --15-survol-fond: #dcedc8; --15-survol-texte: #558b2f;
+    --16-principal: #e8eae6; --16-texte-titre: #2b2e4a; --16-fond-contenu: #f4f4f6; --16-texte-notes: #e84545; --16-survol-fond: #eaeaea; --16-survol-texte: #903749;
+    --17-principal: #fff9c4; --17-texte-titre: #f57f17; --17-fond-contenu: #fffdev; --17-texte-notes: #fbc02d; --17-survol-fond: #fff9c4; --17-survol-texte: #f57f17;
+    --18-principal: #b0bec5; --18-texte-titre: #263238; --18-fond-contenu: #eceff1; --18-texte-notes: #455a64; --18-survol-fond: #b0bec5; --18-survol-texte: #37474f;
+    --19-principal: #d7ccc8; --19-texte-titre: #3e2723; --19-fond-contenu: #efebe9; --19-texte-notes: #5d4037; --19-survol-fond: #d7ccc8; --19-survol-texte: #4e342e;
+    --20-principal: #b2dfdb; --20-texte-titre: #004d40; --20-fond-contenu: #f2faf9; --20-texte-notes: #00796b; --20-survol-fond: #e0f2f1; --20-survol-texte: #00695c;
+}
+
+/* ==========================================================================
+   PREFIX MENU FROM 00. to 20.
+   ========================================================================== */
+
+/* 00. */
+.tree-item-self[data-path*="00."]:not([data-path*="/"]) { background-color: var(--00-principal) !important; color: var(--00-texte-titre) !important; border-radius: 6px; }
+.tree-item-self[data-path*="00."]:not([data-path*="/"]) .tree-item-inner { color: var(--00-texte-titre) !important; font-weight: 600; }
+.tree-item-self[data-path*="00."]:not([data-path*="/"]) .collapse-icon svg { color: var(--00-texte-titre) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="00."]:not([data-path*="/"])) > .tree-item-children { background-color: var(--00-fond-contenu) !important; border-left: 3px solid var(--00-principal); border-radius: 0 0 6px 6px; padding-left: 3px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="00."]:not([data-path*="/"])) > .tree-item-children .tree-item-inner { color: var(--00-texte-notes) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="00."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover { background-color: var(--00-survol-fond) !important; border-radius: 4px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="00."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover .tree-item-inner { color: var(--00-survol-texte) !important; font-weight: 600; }
+
+/* 01. */
+.tree-item-self[data-path*="01."]:not([data-path*="/"]) { background-color: var(--01-principal) !important; color: var(--01-texte-titre) !important; border-radius: 6px; }
+.tree-item-self[data-path*="01."]:not([data-path*="/"]) .tree-item-inner { color: var(--01-texte-titre) !important; font-weight: 600; }
+.tree-item-self[data-path*="01."]:not([data-path*="/"]) .collapse-icon svg { color: var(--01-texte-titre) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="01."]:not([data-path*="/"])) > .tree-item-children { background-color: var(--01-fond-contenu) !important; border-left: 3px solid var(--01-principal); border-radius: 0 0 6px 6px; padding-left: 3px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="01."]:not([data-path*="/"])) > .tree-item-children .tree-item-inner { color: var(--01-texte-notes) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="01."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover { background-color: var(--01-survol-fond) !important; border-radius: 4px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="01."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover .tree-item-inner { color: var(--01-survol-texte) !important; font-weight: 600; }
+
+/* 02. */
+.tree-item-self[data-path*="02."]:not([data-path*="/"]) { background-color: var(--02-principal) !important; color: var(--02-texte-titre) !important; border-radius: 6px; }
+.tree-item-self[data-path*="02."]:not([data-path*="/"]) .tree-item-inner { color: var(--02-texte-titre) !important; font-weight: 600; }
+.tree-item-self[data-path*="02."]:not([data-path*="/"]) .collapse-icon svg { color: var(--02-texte-titre) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="02."]:not([data-path*="/"])) > .tree-item-children { background-color: var(--02-fond-contenu) !important; border-left: 3px solid var(--02-principal); border-radius: 0 0 6px 6px; padding-left: 3px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="02."]:not([data-path*="/"])) > .tree-item-children .tree-item-inner { color: var(--02-texte-notes) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="02."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover { background-color: var(--02-survol-fond) !important; border-radius: 4px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="02."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover .tree-item-inner { color: var(--02-survol-texte) !important; font-weight: 600; }
+
+/* 03. */
+.tree-item-self[data-path*="03."]:not([data-path*="/"]) { background-color: var(--03-principal) !important; color: var(--03-texte-titre) !important; border-radius: 6px; }
+.tree-item-self[data-path*="03."]:not([data-path*="/"]) .tree-item-inner { color: var(--03-texte-titre) !important; font-weight: 600; }
+.tree-item-self[data-path*="03."]:not([data-path*="/"]) .collapse-icon svg { color: var(--03-texte-titre) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="03."]:not([data-path*="/"])) > .tree-item-children { background-color: var(--03-fond-contenu) !important; border-left: 3px solid var(--03-principal); border-radius: 0 0 6px 6px; padding-left: 3px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="03."]:not([data-path*="/"])) > .tree-item-children .tree-item-inner { color: var(--03-texte-notes) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="03."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover { background-color: var(--03-survol-fond) !important; border-radius: 4px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="03."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover .tree-item-inner { color: var(--03-survol-texte) !important; font-weight: 600; }
+
+/* 04. */
+.tree-item-self[data-path*="04."]:not([data-path*="/"]) { background-color: var(--04-principal) !important; color: var(--04-texte-titre) !important; border-radius: 6px; }
+.tree-item-self[data-path*="04."]:not([data-path*="/"]) .tree-item-inner { color: var(--04-texte-titre) !important; font-weight: 600; }
+.tree-item-self[data-path*="04."]:not([data-path*="/"]) .collapse-icon svg { color: var(--04-texte-titre) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="04."]:not([data-path*="/"])) > .tree-item-children { background-color: var(--04-fond-contenu) !important; border-left: 3px solid var(--04-principal); border-radius: 0 0 6px 6px; padding-left: 3px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="04."]:not([data-path*="/"])) > .tree-item-children .tree-item-inner { color: var(--04-texte-notes) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="04."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover { background-color: var(--04-survol-fond) !important; border-radius: 4px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="04."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover .tree-item-inner { color: var(--04-survol-texte) !important; font-weight: 600; }
+
+/* 05. */
+.tree-item-self[data-path*="05."]:not([data-path*="/"]) { background-color: var(--05-principal) !important; color: var(--05-texte-titre) !important; border-radius: 6px; }
+.tree-item-self[data-path*="05."]:not([data-path*="/"]) .tree-item-inner { color: var(--05-texte-titre) !important; font-weight: 600; }
+.tree-item-self[data-path*="05."]:not([data-path*="/"]) .collapse-icon svg { color: var(--05-texte-titre) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="05."]:not([data-path*="/"])) > .tree-item-children { background-color: var(--05-fond-contenu) !important; border-left: 3px solid var(--05-principal); border-radius: 0 0 6px 6px; padding-left: 3px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="05."]:not([data-path*="/"])) > .tree-item-children .tree-item-inner { color: var(--05-texte-notes) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="05."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover { background-color: var(--05-survol-fond) !important; border-radius: 4px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="05."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover .tree-item-inner { color: var(--05-survol-texte) !important; font-weight: 600; }
+
+/* 06. */
+.tree-item-self[data-path*="06."]:not([data-path*="/"]) { background-color: var(--06-principal) !important; color: var(--06-texte-titre) !important; border-radius: 6px; }
+.tree-item-self[data-path*="06."]:not([data-path*="/"]) .tree-item-inner { color: var(--06-texte-titre) !important; font-weight: 600; }
+.tree-item-self[data-path*="06."]:not([data-path*="/"]) .collapse-icon svg { color: var(--06-texte-titre) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="06."]:not([data-path*="/"])) > .tree-item-children { background-color: var(--06-fond-contenu) !important; border-left: 3px solid var(--06-principal); border-radius: 0 0 6px 6px; padding-left: 3px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="06."]:not([data-path*="/"])) > .tree-item-children .tree-item-inner { color: var(--06-texte-notes) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="06."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover { background-color: var(--06-survol-fond) !important; border-radius: 4px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="06."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover .tree-item-inner { color: var(--06-survol-texte) !important; font-weight: 600; }
+
+/* 07. */
+.tree-item-self[data-path*="07."]:not([data-path*="/"]) { background-color: var(--07-principal) !important; color: var(--07-texte-titre) !important; border-radius: 6px; }
+.tree-item-self[data-path*="07."]:not([data-path*="/"]) .tree-item-inner { color: var(--07-texte-titre) !important; font-weight: 600; }
+.tree-item-self[data-path*="07."]:not([data-path*="/"]) .collapse-icon svg { color: var(--07-texte-titre) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="07."]:not([data-path*="/"])) > .tree-item-children { background-color: var(--07-fond-contenu) !important; border-left: 3px solid var(--07-principal); border-radius: 0 0 6px 6px; padding-left: 3px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="07."]:not([data-path*="/"])) > .tree-item-children .tree-item-inner { color: var(--07-texte-notes) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="07."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover { background-color: var(--07-survol-fond) !important; border-radius: 4px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="07."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover .tree-item-inner { color: var(--07-survol-texte) !important; font-weight: 600; }
+
+/* 08. */
+.tree-item-self[data-path*="08."]:not([data-path*="/"]) { background-color: var(--08-principal) !important; color: var(--08-texte-titre) !important; border-radius: 6px; }
+.tree-item-self[data-path*="08."]:not([data-path*="/"]) .tree-item-inner { color: var(--08-texte-titre) !important; font-weight: 600; }
+.tree-item-self[data-path*="08."]:not([data-path*="/"]) .collapse-icon svg { color: var(--08-texte-titre) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="08."]:not([data-path*="/"])) > .tree-item-children { background-color: var(--08-fond-contenu) !important; border-left: 3px solid var(--08-principal); border-radius: 0 0 6px 6px; padding-left: 3px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="08."]:not([data-path*="/"])) > .tree-item-children .tree-item-inner { color: var(--08-texte-notes) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="08."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover { background-color: var(--08-survol-fond) !important; border-radius: 4px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="08."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover .tree-item-inner { color: var(--08-survol-texte) !important; font-weight: 600; }
+
+/* 09. */
+.tree-item-self[data-path*="09."]:not([data-path*="/"]) { background-color: var(--09-principal) !important; color: var(--09-texte-titre) !important; border-radius: 6px; }
+.tree-item-self[data-path*="09."]:not([data-path*="/"]) .tree-item-inner { color: var(--09-texte-titre) !important; font-weight: 600; }
+.tree-item-self[data-path*="09."]:not([data-path*="/"]) .collapse-icon svg { color: var(--09-texte-titre) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="09."]:not([data-path*="/"])) > .tree-item-children { background-color: var(--09-fond-contenu) !important; border-left: 3px solid var(--09-principal); border-radius: 0 0 6px 6px; padding-left: 3px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="09."]:not([data-path*="/"])) > .tree-item-children .tree-item-inner { color: var(--09-texte-notes) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="09."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover { background-color: var(--09-survol-fond) !important; border-radius: 4px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="09."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover .tree-item-inner { color: var(--09-survol-texte) !important; font-weight: 600; }
+
+/* 10. */
+.tree-item-self[data-path*="10."]:not([data-path*="/"]) { background-color: var(--10-principal) !important; color: var(--10-texte-titre) !important; border-radius: 6px; }
+.tree-item-self[data-path*="10."]:not([data-path*="/"]) .tree-item-inner { color: var(--10-texte-titre) !important; font-weight: 600; }
+.tree-item-self[data-path*="10."]:not([data-path*="/"]) .collapse-icon svg { color: var(--10-texte-titre) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="10."]:not([data-path*="/"])) > .tree-item-children { background-color: var(--10-fond-contenu) !important; border-left: 3px solid var(--10-principal); border-radius: 0 0 6px 6px; padding-left: 3px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="10."]:not([data-path*="/"])) > .tree-item-children .tree-item-inner { color: var(--10-texte-notes) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="10."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover { background-color: var(--10-survol-fond) !important; border-radius: 4px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="10."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover .tree-item-inner { color: var(--10-survol-texte) !important; font-weight: 600; }
+
+/* 11. */
+.tree-item-self[data-path*="11."]:not([data-path*="/"]) { background-color: var(--11-principal) !important; color: var(--11-texte-titre) !important; border-radius: 6px; }
+.tree-item-self[data-path*="11."]:not([data-path*="/"]) .tree-item-inner { color: var(--11-texte-titre) !important; font-weight: 600; }
+.tree-item-self[data-path*="11."]:not([data-path*="/"]) .collapse-icon svg { color: var(--11-texte-titre) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="11."]:not([data-path*="/"])) > .tree-item-children { background-color: var(--11-fond-contenu) !important; border-left: 3px solid var(--11-principal); border-radius: 0 0 6px 6px; padding-left: 3px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="11."]:not([data-path*="/"])) > .tree-item-children .tree-item-inner { color: var(--11-texte-notes) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="11."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover { background-color: var(--11-survol-fond) !important; border-radius: 4px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="11."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover .tree-item-inner { color: var(--11-survol-texte) !important; font-weight: 600; }
+
+/* 12. */
+.tree-item-self[data-path*="12."]:not([data-path*="/"]) { background-color: var(--12-principal) !important; color: var(--12-texte-titre) !important; border-radius: 6px; }
+.tree-item-self[data-path*="12."]:not([data-path*="/"]) .tree-item-inner { color: var(--12-texte-titre) !important; font-weight: 600; }
+.tree-item-self[data-path*="12."]:not([data-path*="/"]) .collapse-icon svg { color: var(--12-texte-titre) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="12."]:not([data-path*="/"])) > .tree-item-children { background-color: var(--12-fond-contenu) !important; border-left: 3px solid var(--12-principal); border-radius: 0 0 6px 6px; padding-left: 3px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="12."]:not([data-path*="/"])) > .tree-item-children .tree-item-inner { color: var(--12-texte-notes) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="12."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover { background-color: var(--12-survol-fond) !important; border-radius: 4px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="12."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover .tree-item-inner { color: var(--12-survol-texte) !important; font-weight: 600; }
+
+/* 13. */
+.tree-item-self[data-path*="13."]:not([data-path*="/"]) { background-color: var(--13-principal) !important; color: var(--13-texte-titre) !important; border-radius: 6px; }
+.tree-item-self[data-path*="13."]:not([data-path*="/"]) .tree-item-inner { color: var(--13-texte-titre) !important; font-weight: 600; }
+.tree-item-self[data-path*="13."]:not([data-path*="/"]) .collapse-icon svg { color: var(--13-texte-titre) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="13."]:not([data-path*="/"])) > .tree-item-children { background-color: var(--13-fond-contenu) !important; border-left: 3px solid var(--13-principal); border-radius: 0 0 6px 6px; padding-left: 3px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="13."]:not([data-path*="/"])) > .tree-item-children .tree-item-inner { color: var(--13-texte-notes) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="13."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover { background-color: var(--13-survol-fond) !important; border-radius: 4px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="13."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover .tree-item-inner { color: var(--13-survol-texte) !important; font-weight: 600; }
+
+/* 14. */
+.tree-item-self[data-path*="14."]:not([data-path*="/"]) { background-color: var(--14-principal) !important; color: var(--14-texte-titre) !important; border-radius: 6px; }
+.tree-item-self[data-path*="14."]:not([data-path*="/"]) .tree-item-inner { color: var(--14-texte-titre) !important; font-weight: 600; }
+.tree-item-self[data-path*="14."]:not([data-path*="/"]) .collapse-icon svg { color: var(--14-texte-titre) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="14."]:not([data-path*="/"])) > .tree-item-children { background-color: var(--14-fond-contenu) !important; border-left: 3px solid var(--14-principal); border-radius: 0 0 6px 6px; padding-left: 3px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="14."]:not([data-path*="/"])) > .tree-item-children .tree-item-inner { color: var(--14-texte-notes) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="14."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover { background-color: var(--14-survol-fond) !important; border-radius: 4px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="14."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover .tree-item-inner { color: var(--14-survol-texte) !important; font-weight: 600; }
+
+/* 15. */
+.tree-item-self[data-path*="15."]:not([data-path*="/"]) { background-color: var(--15-principal) !important; color: var(--15-texte-titre) !important; border-radius: 6px; }
+.tree-item-self[data-path*="15."]:not([data-path*="/"]) .tree-item-inner { color: var(--15-texte-titre) !important; font-weight: 600; }
+.tree-item-self[data-path*="15."]:not([data-path*="/"]) .collapse-icon svg { color: var(--15-texte-titre) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="15."]:not([data-path*="/"])) > .tree-item-children { background-color: var(--15-fond-contenu) !important; border-left: 3px solid var(--15-principal); border-radius: 0 0 6px 6px; padding-left: 3px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="15."]:not([data-path*="/"])) > .tree-item-children .tree-item-inner { color: var(--15-texte-notes) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="15."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover { background-color: var(--15-survol-fond) !important; border-radius: 4px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="15."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover .tree-item-inner { color: var(--15-survol-texte) !important; font-weight: 600; }
+
+/* 16. */
+.tree-item-self[data-path*="16."]:not([data-path*="/"]) { background-color: var(--16-principal) !important; color: var(--16-texte-titre) !important; border-radius: 6px; }
+.tree-item-self[data-path*="16."]:not([data-path*="/"]) .tree-item-inner { color: var(--16-texte-titre) !important; font-weight: 600; }
+.tree-item-self[data-path*="16."]:not([data-path*="/"]) .collapse-icon svg { color: var(--16-texte-titre) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="16."]:not([data-path*="/"])) > .tree-item-children { background-color: var(--16-fond-contenu) !important; border-left: 3px solid var(--16-principal); border-radius: 0 0 6px 6px; padding-left: 3px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="16."]:not([data-path*="/"])) > .tree-item-children .tree-item-inner { color: var(--16-texte-notes) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="16."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover { background-color: var(--16-survol-fond) !important; border-radius: 4px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="16."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover .tree-item-inner { color: var(--16-survol-texte) !important; font-weight: 600; }
+
+/* 17. */
+.tree-item-self[data-path*="17."]:not([data-path*="/"]) { background-color: var(--17-principal) !important; color: var(--17-texte-titre) !important; border-radius: 6px; }
+.tree-item-self[data-path*="17."]:not([data-path*="/"]) .tree-item-inner { color: var(--17-texte-titre) !important; font-weight: 600; }
+.tree-item-self[data-path*="17."]:not([data-path*="/"]) .collapse-icon svg { color: var(--17-texte-titre) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="17."]:not([data-path*="/"])) > .tree-item-children { background-color: var(--17-fond-contenu) !important; border-left: 3px solid var(--17-principal); border-radius: 0 0 6px 6px; padding-left: 3px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="17."]:not([data-path*="/"])) > .tree-item-children .tree-item-inner { color: var(--17-texte-notes) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="17."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover { background-color: var(--17-survol-fond) !important; border-radius: 4px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="17."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover .tree-item-inner { color: var(--17-survol-texte) !important; font-weight: 600; }
+
+/* 18. */
+.tree-item-self[data-path*="18."]:not([data-path*="/"]) { background-color: var(--18-principal) !important; color: var(--18-texte-titre) !important; border-radius: 6px; }
+.tree-item-self[data-path*="18."]:not([data-path*="/"]) .tree-item-inner { color: var(--18-texte-titre) !important; font-weight: 600; }
+.tree-item-self[data-path*="18."]:not([data-path*="/"]) .collapse-icon svg { color: var(--18-texte-titre) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="18."]:not([data-path*="/"])) > .tree-item-children { background-color: var(--18-fond-contenu) !important; border-left: 3px solid var(--18-principal); border-radius: 0 0 6px 6px; padding-left: 3px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="18."]:not([data-path*="/"])) > .tree-item-children .tree-item-inner { color: var(--18-texte-notes) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="18."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover { background-color: var(--18-survol-fond) !important; border-radius: 4px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="18."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover .tree-item-inner { color: var(--18-survol-texte) !important; font-weight: 600; }
+
+/* 19. */
+.tree-item-self[data-path*="19."]:not([data-path*="/"]) { background-color: var(--19-principal) !important; color: var(--19-texte-titre) !important; border-radius: 6px; }
+.tree-item-self[data-path*="19."]:not([data-path*="/"]) .tree-item-inner { color: var(--19-texte-titre) !important; font-weight: 600; }
+.tree-item-self[data-path*="19."]:not([data-path*="/"]) .collapse-icon svg { color: var(--19-texte-titre) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="19."]:not([data-path*="/"])) > .tree-item-children { background-color: var(--19-fond-contenu) !important; border-left: 3px solid var(--19-principal); border-radius: 0 0 6px 6px; padding-left: 3px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="19."]:not([data-path*="/"])) > .tree-item-children .tree-item-inner { color: var(--19-texte-notes) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="19."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover { background-color: var(--19-survol-fond) !important; border-radius: 4px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="19."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover .tree-item-inner { color: var(--19-survol-texte) !important; font-weight: 600; }
+
+/* 20. */
+.tree-item-self[data-path*="20."]:not([data-path*="/"]) { background-color: var(--20-principal) !important; color: var(--20-texte-titre) !important; border-radius: 6px; }
+.tree-item-self[data-path*="20."]:not([data-path*="/"]) .tree-item-inner { color: var(--20-texte-titre) !important; font-weight: 600; }
+.tree-item-self[data-path*="20."]:not([data-path*="/"]) .collapse-icon svg { color: var(--20-texte-titre) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="20."]:not([data-path*="/"])) > .tree-item-children { background-color: var(--20-fond-contenu) !important; border-left: 3px solid var(--20-principal); border-radius: 0 0 6px 6px; padding-left: 3px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="20."]:not([data-path*="/"])) > .tree-item-children .tree-item-inner { color: var(--20-texte-notes) !important; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="20."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover { background-color: var(--20-survol-fond) !important; border-radius: 4px; }
+.tree-item.nav-folder:has(> .tree-item-self[data-path*="20."]:not([data-path*="/"])) > .tree-item-children .tree-item-self:hover .tree-item-inner { color: var(--20-survol-texte) !important; font-weight: 600; }
